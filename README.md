@@ -1,10 +1,10 @@
 # DH Benchmark Dataset for Ontology Matching
 
-introduction + link to OAEI 2024
 
-# Description
 
-This is a benchmark dataset for ontology matching in the field of Digital Humanities (DH). You can find all the information about the dataset that you need for using it at the [OAEI](https://oaei.ontologymatching.org/) in this repository.  
+## Description
+
+This is a benchmark dataset for ontology matching in the field of Digital Humanities (DH) created by Felix Ernst. You can find all the information about the dataset that you need for using it at the [OAEI](https://oaei.ontologymatching.org/) in this repository.  
 This benchmark dataset facilitaes the development of ontology matching systems for the Humanities, which face special obstacle which are at least partly addressed in this dataset:
 
 - wide range of (historical) languages and writing systems
@@ -102,14 +102,25 @@ There were five different vocabularies used for the two different DH/CS test cas
     - Reference: 170*490=83300 possible combinations, 16 true positivs (~0,02%)
 
 ## Test Case Design
+The following criteria were used to select suitable controlled vocabularies (CVs) from all DH CVs that were found:
+- The track should cover different subfields of Humanities
+- Preferably specific terminology than general to pose a challenge to the OM systems
+- CV is in SKOS format (unlike e.g. plain HTML CVs that could not be used)
+- A combination of two CVs needs to have at least some true positivs
+- CVs with errors such as doublette terms, terms not in hierarchy, violation of SKOS were not considered
 
-
-
+Some potential test cases are hold back for the following OAEI years such that the systems always encounter unseen test cases.
 
 ## Reference Alignment Methodology / Provenance
+To create a well designed reference alignment, the following points were taken into account:
+- Special care was taken to ensure that similar terms are really identical and not closely related, see [10]
+- Only the same part-of-speech was considered to be similar (e.g. analysis and to analyse was not considered to be similar)
+- Singular and plural was considered to be similar
+- Large vocabularies were reduced to only the relevant terms. This means that the branch of the hierarchy containing terms of the desired topic was kept and the other branches was removed. This ensures that the reference alignment can be compiled manually. 
+To create the manual alignment, the dataset creator went through each term of the source CV and searched thouroughly for similar terms in the target CV using full text search and its hierarchy. 
 
 # References / License Information
-
+## Controlled Vocabularies
 [1]: [DEFC](https://vocabs.dariah.eu/defc_thesaurus/en/) [[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.en); Creators: Seta Štuhec, Anja Masur, Peter Andorfer, Ksenia Zaytseva, Edeltraud Aspöck]  
 [2]: [PACTOLS](https://isl.ics.forth.gr/bbt-federated-thesaurus/PACTOLS/en/) (adapted) [[ODbL v1.0](https://opendatacommons.org/licenses/odbl/1-0/); Creators: Groupe PACTOLS/FRANTIQ]  
 [3]: [iDAI.world](https://isl.ics.forth.gr/bbt-federated-thesaurus/DAI/en/) (adapted)[](https://vocabs.dariah.eu/defc_thesaurus/en/) [[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.en); Creators: Annika Kirscheneder, Camilla Colombi, Elenore Pape, Gabriele Rasbach, Henriette Senst, Lena Vitt, Matthias Block, Nina Dworschak, Reinhard Förtsch, Sabine Thänert]  
@@ -119,3 +130,10 @@ There were five different vocabularies used for the two different DH/CS test cas
 [7]: [DHA Taxonomy](https://vocabs.dariah.eu/dha_taxonomy/en/) (adapted) [[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.en); Creators: ACDH-OEAW Team]  
 [8]: [UNESCO](https://vocabularies.unesco.org/browser/thesaurus/en/) (adapted) [[CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/igo/); Creators: UNESCO]  
 [9]: [TaDiRAH](https://vocabs.dariah.eu/tadirah/en/) (adapted) [[CC0](https://creativecommons.org/publicdomain/zero/1.0/); Creators: Luise Borek, Canan Hastik, Vera Khramova, Jonathan Geiger]
+
+## Literature
+[10]: Hill F, Reichart R, Korhonen A (2015) SimLex-999: Evaluating Semantic Models With (Genuine) Similarity Estimation. Computational Linguistics 41:665–695. https://doi.org/10.1162/COLI_a_00237
+
+# Contact information
+Creator: Felix Ernst
+Email (subsitute accordingly): firstname.lastname (at) kit (dot) edu
