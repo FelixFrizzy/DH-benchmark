@@ -134,5 +134,5 @@ To create the manual alignment, the dataset creator went through each term of th
 [10]: Hill F, Reichart R, Korhonen A (2015) SimLex-999: Evaluating Semantic Models With (Genuine) Similarity Estimation. Computational Linguistics 41:665–695. https://doi.org/10.1162/COLI_a_00237
 
 # Contact information
-Creator: Felix Ernst
+Creator: Felix Kraus
 Email (subsitute accordingly): firstname.lastname (at) kit (dot) edu
