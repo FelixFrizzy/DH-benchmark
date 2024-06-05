@@ -8,6 +8,13 @@
    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
 >
+<rdf:Description rdf:about="http://www.w3.org/2004/02/skos/core#Concept">
+    <rdfs:label xml:lang="en">Concept</rdfs:label>
+    <rdfs:isDefinedBy rdf:resource="http://www.w3.org/2004/02/skos/core"/>
+    <skos:definition xml:lang="en">An idea or notion; a unit of thought.</skos:definition>
+    <!-- S1 -->
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
   <rdf:Description rdf:about="https://vocabs.acdh.oeaw.ac.at/dhataxonomy/Concept48.07">
     <skos:definition xml:lang="en">process of grouping together the different inflected forms of a word to its canonical form so that they can be analysed as a single item</skos:definition>
     <dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">Thu Oct 01 00:00:00 CEST 2015</dct:created>
