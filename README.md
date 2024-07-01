@@ -14,7 +14,7 @@ This benchmark dataset facilitaes the development of ontology matching systems f
 
 The dataset includes several test cases grouped into three sub-domains. Each test case consists of a source ontology, a target ontology and a manually compiled reference alignment. Only equivalent relations ("=") are targeted.
 
-### Archaeology
+### Archaeology (foldername "arch...")
 
 There were five different vocabularies used for the four different archaeology test cases:
 - [DEFC](https://vocabs.dariah.eu/defc_thesaurus/en/) [1]
@@ -53,7 +53,7 @@ There were five different vocabularies used for the four different archaeology t
     - Target: PARTHENOS
     - Reference: 70*800=56000 possible combinations, 13 true positivs (~0,02%)
 
-### Cultural History
+### Cultural History (foldername "cult...")
 
 There were five different vocabularies used for the two different cultural history test cases:
 - [iDAI.world](https://isl.ics.forth.gr/bbt-federated-thesaurus/DAI/en/) [3]
@@ -77,7 +77,7 @@ There were five different vocabularies used for the two different cultural histo
     - target: PARTHENOS
     - Reference: 400*200=80000 possible combinations, 48 true positivs (0,06%)
 
-### DH and Computer Science
+### DH and Computer Science (foldername "dhcs...")
 
 There were five different vocabularies used for the two different DH/CS test cases:
 - [DHA Taxonomy](https://vocabs.dariah.eu/dha_taxonomy/en/) [7]
