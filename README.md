@@ -43,7 +43,7 @@ There were five different vocabularies used for the four different archaeology t
 #### Second test case
     - Source: iDAI.world
     - Target: PACTOLS
-    - Reference: 2600*70=182000 possible combinations, 18 true positivs (~0,1%)
+    - Reference: 2600*70=182000 possible combinations, 18 true positivs (~0,01%)
 #### Third test case
     - Source: Iron-Age-Danube
     - Target: PACTOLS
