@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/791309525.svg)](https://zenodo.org/doi/10.5281/zenodo.12731588)
+
 # DH Benchmark Dataset for Ontology Matching
 
 ## Description
