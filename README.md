@@ -19,7 +19,7 @@ The dataset includes several test cases grouped into three sub-domains. Each tes
 ### Archaeology (foldername "arch...")
 
 There were five different vocabularies used for the four different archaeology test cases:
-- [DEFC](https://vocabs.dariah.eu/defc_thesaurus/en/) [1]
+- [DEFC](https://vocabs.acdh.oeaw.ac.at/defc_thesaurus/en/) [1]
     - About 800 terms
     - Languages: Mainly English and German
 - [PACTOLS](https://isl.ics.forth.gr/bbt-federated-thesaurus/PACTOLS/en/) [2]
@@ -30,10 +30,10 @@ There were five different vocabularies used for the four different archaeology t
     - Adapted version: Only narrower terms and direct ancestors of the concept "[material things](http://thesauri.da2inst.org/_1c0fa2d2)" were used
     - About 2600 terms
     - Major languages: Arabic, English, French, German, Italian
-- [Iron-Age-Danube](https://vocabs.dariah.eu/iad_thesaurus/en/) [4]
+- [Iron-Age-Danube](https://vocabs.acdh.oeaw.ac.at/iad_thesaurus/en/) [4]
     - About 290 terms
     - Languages: Croatian, English, German, Hungarian, Slovenian
-- [PARTHENOS](https://vocabs.dariah.eu/parthenos_vocabularies/en/) [5]
+- [PARTHENOS](https://vocabs.acdh.oeaw.ac.at/parthenos_vocabularies/en/) [5]
     - Adapted version: Only narrower terms and direct ancestors of the concept "[place types](https://isl.ics.forth.gr/parthenos_vocabularies/Concept/32199)" were used
     - About 800 terms
     - Language: English
@@ -41,19 +41,19 @@ There were five different vocabularies used for the four different archaeology t
 #### First test case
     - Source: DEFC
     - Target: PACTOLS
-    - Reference: 800*70=56000 possible combinations, 11 true positivs (~0,02%)
+    - Reference: 800*70=56000 possible combinations, 11 true positives (~0,02%)
 #### Second test case
     - Source: iDAI.world
     - Target: PACTOLS
-    - Reference: 2600*70=182000 possible combinations, 18 true positivs (~0,01%)
+    - Reference: 2600*70=182000 possible combinations, 18 true positives (~0,01%)
 #### Third test case
     - Source: Iron-Age-Danube
     - Target: PACTOLS
-    - Reference: 290*70=20300 possible combinations, 6 true positivs (~0,03%)
+    - Reference: 290*70=20300 possible combinations, 6 true positives (~0,03%)
 #### Fourth test case
     - Source: PACTOLS
     - Target: PARTHENOS
-    - Reference: 70*800=56000 possible combinations, 13 true positivs (~0,02%)
+    - Reference: 70*800=56000 possible combinations, 13 true positives (~0,02%)
 
 ### Cultural History (foldername "cult...")
 
@@ -62,52 +62,52 @@ There were five different vocabularies used for the two different cultural histo
     - Adapted version: Only narrower terms and direct ancestors of the concept "[chronology](http://thesauri.dainst.org/_62a09577)" were used
     - About 270 terms
     - Major languages: Arabic, English, French, German, Italian
-- [PARTHENOS](https://vocabs.dariah.eu/parthenos_vocabularies/en/) [5]
+- [PARTHENOS](https://vocabs.acdh.oeaw.ac.at/parthenos_vocabularies/en/) [5]
     - Adapted version: Only narrower terms and direct ancestors of the concept "[Periods](https://isl.ics.forth.gr/parthenos_vocabularies/Concept/7084)" were used
     - About 200 terms
     - Language: English
-- [OeAI](https://vocabs.dariah.eu/oeai-cp/en/) [6]
+- [OeAI](https://vocabs.acdh.oeaw.ac.at/oeai-cp/en/) [6]
     - About 400 terms
     - Languages: English, German
 
 #### First test case
     - source: iDAI.world
     - target: PARTHENOS
-    - Reference: 270*200=54000 possible combinations, 53 true positivs (~0,1%)
+    - Reference: 270*200=54000 possible combinations, 53 true positives (~0,1%)
 #### Second test case
     - source: OeAI
     - target: PARTHENOS
-    - Reference: 400*200=80000 possible combinations, 48 true positivs (0,06%)
+    - Reference: 400*200=80000 possible combinations, 48 true positives (0,06%)
 
 ### DH and Computer Science (foldername "dhcs...")
 
 There were five different vocabularies used for the two different DH/CS test cases:
-- [DHA Taxonomy](https://vocabs.dariah.eu/dha_taxonomy/en/) [7]
+- [DHA Taxonomy](https://vocabs.acdh.oeaw.ac.at/dha_taxonomy/en/) [7]
     - About 115 terms
     - Languages: English
 - [UNESCO](https://vocabularies.unesco.org/browser/thesaurus/en/) [8]
     - Adapted version: Only narrower terms and direct ancestors of the concept "[Information and communication](http://vocabularies.unesco.org/thesaurus/domain5)" were used
     - About 490 terms
     - Languages: Arabic, English, French, Russion, Spanish
-- [TaDiRAH](https://vocabs.dariah.eu/tadirah/en/) [9]
+- [TaDiRAH](https://vocabs.acdh.oeaw.ac.at/tadirah/en/) [9]
     - About 170 terms
     - Main Language: English 
 
 #### First test case
     - source: DHA Taxonomy
     - target: UNESCO
-    - Reference: 115*490=56350 possible combinations, 12 true positivs (~0,02%)
+    - Reference: 115*490=56350 possible combinations, 12 true positives (~0,02%)
 #### Second test case
     - source: TaDiRAH
     - target: UNESCO
-    - Reference: 170*490=83300 possible combinations, 16 true positivs (~0,02%)
+    - Reference: 170*490=83300 possible combinations, 16 true positives (~0,02%)
 
 ## Test Case Design
 The following criteria were used to select suitable controlled vocabularies (CVs) from all DH CVs that were found:
 - The track should cover different subfields of Humanities
 - Preferably specific terminology than general to pose a challenge to the OM systems
 - CV is in SKOS format (unlike e.g. plain HTML CVs that could not be used)
-- A combination of two CVs needs to have at least some true positivs
+- A combination of two CVs needs to have at least some true positives
 - CVs with errors such as doublette terms, terms not in hierarchy, violation of SKOS were not considered
 
 Some potential test cases are hold back for the following OAEI years such that the systems always encounter unseen test cases.
@@ -122,15 +122,15 @@ To create the manual alignment, the dataset creator went through each term of th
 
 # References / License Information
 ## Controlled Vocabularies
-[1]: [DEFC](https://vocabs.dariah.eu/defc_thesaurus/en/) [[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.en); Creators: Seta Štuhec, Anja Masur, Peter Andorfer, Ksenia Zaytseva, Edeltraud Aspöck]  
+[1]: [DEFC](https://vocabs.acdh.oeaw.ac.at/defc_thesaurus/en/) [[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.en); Creators: Seta Štuhec, Anja Masur, Peter Andorfer, Ksenia Zaytseva, Edeltraud Aspöck]  
 [2]: [PACTOLS](https://isl.ics.forth.gr/bbt-federated-thesaurus/PACTOLS/en/) (adapted) [[ODbL v1.0](https://opendatacommons.org/licenses/odbl/1-0/); Creators: Groupe PACTOLS/FRANTIQ]  
-[3]: [iDAI.world](https://isl.ics.forth.gr/bbt-federated-thesaurus/DAI/en/) (adapted)[](https://vocabs.dariah.eu/defc_thesaurus/en/) [[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.en); Creators: Annika Kirscheneder, Camilla Colombi, Elenore Pape, Gabriele Rasbach, Henriette Senst, Lena Vitt, Matthias Block, Nina Dworschak, Reinhard Förtsch, Sabine Thänert]  
-[4]: [Iron-Age-Danube](https://vocabs.dariah.eu/iad_thesaurus/en/) [[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.en); Creator: Seta Štuhec]  
-[5]: [PARTHENOS](https://vocabs.dariah.eu/parthenos_vocabularies/en/) (adapted) [[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.en); Creators: PARTHENOS project]  
-[6]: [OeAI](https://vocabs.dariah.eu/oeai-cp/en/) (adapted) [[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.en); Creator: Micheline Welte]  
-[7]: [DHA Taxonomy](https://vocabs.dariah.eu/dha_taxonomy/en/) (adapted) [[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.en); Creators: ACDH-OEAW Team]  
+[3]: [iDAI.world](https://isl.ics.forth.gr/bbt-federated-thesaurus/DAI/en/) (adapted) [[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.en); Creators: Annika Kirscheneder, Camilla Colombi, Elenore Pape, Gabriele Rasbach, Henriette Senst, Lena Vitt, Matthias Block, Nina Dworschak, Reinhard Förtsch, Sabine Thänert]  
+[4]: [Iron-Age-Danube](https://vocabs.acdh.oeaw.ac.at/iad_thesaurus/en/) [[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.en); Creator: Seta Štuhec]  
+[5]: [PARTHENOS](https://vocabs.acdh.oeaw.ac.at/parthenos_vocabularies/en/) (adapted) [[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.en); Creators: PARTHENOS project]  
+[6]: [OeAI](https://vocabs.acdh.oeaw.ac.at/oeai-cp/en/) (adapted) [[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.en); Creator: Micheline Welte]  
+[7]: [DHA Taxonomy](https://vocabs.acdh.oeaw.ac.at/dha_taxonomy/en/) (adapted) [[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.en); Creators: ACDH-OEAW Team]  
 [8]: [UNESCO](https://vocabularies.unesco.org/browser/thesaurus/en/) (adapted) [[CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/igo/); Creators: UNESCO]  
-[9]: [TaDiRAH](https://vocabs.dariah.eu/tadirah/en/) (adapted) [[CC0](https://creativecommons.org/publicdomain/zero/1.0/); Creators: Luise Borek, Canan Hastik, Vera Khramova, Jonathan Geiger]
+[9]: [TaDiRAH](https://vocabs.acdh.oeaw.ac.at/tadirah/en/) (adapted) [[CC0](https://creativecommons.org/publicdomain/zero/1.0/); Creators: Luise Borek, Canan Hastik, Vera Khramova, Jonathan Geiger]
 
 ## Literature
 [10]: Hill F, Reichart R, Korhonen A (2015) SimLex-999: Evaluating Semantic Models With (Genuine) Similarity Estimation. Computational Linguistics 41:665–695. https://doi.org/10.1162/COLI_a_00237
