@@ -41,19 +41,19 @@ There were five different vocabularies used for the four different archaeology t
 #### First test case
     - Source: DEFC
     - Target: PACTOLS
-    - Reference: 800*70=56000 possible combinations, 11 true positivs (~0,02%)
+    - Reference: 800*70=56000 possible combinations, 11 true positives (~0,02%)
 #### Second test case
     - Source: iDAI.world
     - Target: PACTOLS
-    - Reference: 2600*70=182000 possible combinations, 18 true positivs (~0,01%)
+    - Reference: 2600*70=182000 possible combinations, 18 true positives (~0,01%)
 #### Third test case
     - Source: Iron-Age-Danube
     - Target: PACTOLS
-    - Reference: 290*70=20300 possible combinations, 6 true positivs (~0,03%)
+    - Reference: 290*70=20300 possible combinations, 6 true positives (~0,03%)
 #### Fourth test case
     - Source: PACTOLS
     - Target: PARTHENOS
-    - Reference: 70*800=56000 possible combinations, 13 true positivs (~0,02%)
+    - Reference: 70*800=56000 possible combinations, 13 true positives (~0,02%)
 
 ### Cultural History (foldername "cult...")
 
@@ -73,11 +73,11 @@ There were five different vocabularies used for the two different cultural histo
 #### First test case
     - source: iDAI.world
     - target: PARTHENOS
-    - Reference: 270*200=54000 possible combinations, 53 true positivs (~0,1%)
+    - Reference: 270*200=54000 possible combinations, 53 true positives (~0,1%)
 #### Second test case
     - source: OeAI
     - target: PARTHENOS
-    - Reference: 400*200=80000 possible combinations, 48 true positivs (0,06%)
+    - Reference: 400*200=80000 possible combinations, 48 true positives (0,06%)
 
 ### DH and Computer Science (foldername "dhcs...")
 
@@ -96,18 +96,18 @@ There were five different vocabularies used for the two different DH/CS test cas
 #### First test case
     - source: DHA Taxonomy
     - target: UNESCO
-    - Reference: 115*490=56350 possible combinations, 12 true positivs (~0,02%)
+    - Reference: 115*490=56350 possible combinations, 12 true positives (~0,02%)
 #### Second test case
     - source: TaDiRAH
     - target: UNESCO
-    - Reference: 170*490=83300 possible combinations, 16 true positivs (~0,02%)
+    - Reference: 170*490=83300 possible combinations, 16 true positives (~0,02%)
 
 ## Test Case Design
 The following criteria were used to select suitable controlled vocabularies (CVs) from all DH CVs that were found:
 - The track should cover different subfields of Humanities
 - Preferably specific terminology than general to pose a challenge to the OM systems
 - CV is in SKOS format (unlike e.g. plain HTML CVs that could not be used)
-- A combination of two CVs needs to have at least some true positivs
+- A combination of two CVs needs to have at least some true positives
 - CVs with errors such as doublette terms, terms not in hierarchy, violation of SKOS were not considered
 
 Some potential test cases are hold back for the following OAEI years such that the systems always encounter unseen test cases.
