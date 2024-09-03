@@ -19,7 +19,7 @@ The dataset includes several test cases grouped into three sub-domains. Each tes
 ### Archaeology (foldername "arch...")
 
 There were five different vocabularies used for the four different archaeology test cases:
-- [DEFC](https://vocabs.dariah.eu/defc_thesaurus/en/) [1]
+- [DEFC](https://vocabs.acdh.oeaw.ac.at/defc_thesaurus/en/) [1]
     - About 800 terms
     - Languages: Mainly English and German
 - [PACTOLS](https://isl.ics.forth.gr/bbt-federated-thesaurus/PACTOLS/en/) [2]
@@ -30,10 +30,10 @@ There were five different vocabularies used for the four different archaeology t
     - Adapted version: Only narrower terms and direct ancestors of the concept "[material things](http://thesauri.da2inst.org/_1c0fa2d2)" were used
     - About 2600 terms
     - Major languages: Arabic, English, French, German, Italian
-- [Iron-Age-Danube](https://vocabs.dariah.eu/iad_thesaurus/en/) [4]
+- [Iron-Age-Danube](https://vocabs.acdh.oeaw.ac.at/iad_thesaurus/en/) [4]
     - About 290 terms
     - Languages: Croatian, English, German, Hungarian, Slovenian
-- [PARTHENOS](https://vocabs.dariah.eu/parthenos_vocabularies/en/) [5]
+- [PARTHENOS](https://vocabs.acdh.oeaw.ac.at/parthenos_vocabularies/en/) [5]
     - Adapted version: Only narrower terms and direct ancestors of the concept "[place types](https://isl.ics.forth.gr/parthenos_vocabularies/Concept/32199)" were used
     - About 800 terms
     - Language: English
@@ -62,11 +62,11 @@ There were five different vocabularies used for the two different cultural histo
     - Adapted version: Only narrower terms and direct ancestors of the concept "[chronology](http://thesauri.dainst.org/_62a09577)" were used
     - About 270 terms
     - Major languages: Arabic, English, French, German, Italian
-- [PARTHENOS](https://vocabs.dariah.eu/parthenos_vocabularies/en/) [5]
+- [PARTHENOS](https://vocabs.acdh.oeaw.ac.at/parthenos_vocabularies/en/) [5]
     - Adapted version: Only narrower terms and direct ancestors of the concept "[Periods](https://isl.ics.forth.gr/parthenos_vocabularies/Concept/7084)" were used
     - About 200 terms
     - Language: English
-- [OeAI](https://vocabs.dariah.eu/oeai-cp/en/) [6]
+- [OeAI](https://vocabs.acdh.oeaw.ac.at/oeai-cp/en/) [6]
     - About 400 terms
     - Languages: English, German
 
@@ -82,14 +82,14 @@ There were five different vocabularies used for the two different cultural histo
 ### DH and Computer Science (foldername "dhcs...")
 
 There were five different vocabularies used for the two different DH/CS test cases:
-- [DHA Taxonomy](https://vocabs.dariah.eu/dha_taxonomy/en/) [7]
+- [DHA Taxonomy](https://vocabs.acdh.oeaw.ac.at/dha_taxonomy/en/) [7]
     - About 115 terms
     - Languages: English
 - [UNESCO](https://vocabularies.unesco.org/browser/thesaurus/en/) [8]
     - Adapted version: Only narrower terms and direct ancestors of the concept "[Information and communication](http://vocabularies.unesco.org/thesaurus/domain5)" were used
     - About 490 terms
     - Languages: Arabic, English, French, Russion, Spanish
-- [TaDiRAH](https://vocabs.dariah.eu/tadirah/en/) [9]
+- [TaDiRAH](https://vocabs.acdh.oeaw.ac.at/tadirah/en/) [9]
     - About 170 terms
     - Main Language: English 
 
@@ -122,15 +122,15 @@ To create the manual alignment, the dataset creator went through each term of th
 
 # References / License Information
 ## Controlled Vocabularies
-[1]: [DEFC](https://vocabs.dariah.eu/defc_thesaurus/en/) [[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.en); Creators: Seta Štuhec, Anja Masur, Peter Andorfer, Ksenia Zaytseva, Edeltraud Aspöck]  
+[1]: [DEFC](https://vocabs.acdh.oeaw.ac.at/defc_thesaurus/en/) [[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.en); Creators: Seta Štuhec, Anja Masur, Peter Andorfer, Ksenia Zaytseva, Edeltraud Aspöck]  
 [2]: [PACTOLS](https://isl.ics.forth.gr/bbt-federated-thesaurus/PACTOLS/en/) (adapted) [[ODbL v1.0](https://opendatacommons.org/licenses/odbl/1-0/); Creators: Groupe PACTOLS/FRANTIQ]  
-[3]: [iDAI.world](https://isl.ics.forth.gr/bbt-federated-thesaurus/DAI/en/) (adapted)[](https://vocabs.dariah.eu/defc_thesaurus/en/) [[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.en); Creators: Annika Kirscheneder, Camilla Colombi, Elenore Pape, Gabriele Rasbach, Henriette Senst, Lena Vitt, Matthias Block, Nina Dworschak, Reinhard Förtsch, Sabine Thänert]  
-[4]: [Iron-Age-Danube](https://vocabs.dariah.eu/iad_thesaurus/en/) [[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.en); Creator: Seta Štuhec]  
-[5]: [PARTHENOS](https://vocabs.dariah.eu/parthenos_vocabularies/en/) (adapted) [[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.en); Creators: PARTHENOS project]  
-[6]: [OeAI](https://vocabs.dariah.eu/oeai-cp/en/) (adapted) [[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.en); Creator: Micheline Welte]  
-[7]: [DHA Taxonomy](https://vocabs.dariah.eu/dha_taxonomy/en/) (adapted) [[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.en); Creators: ACDH-OEAW Team]  
+[3]: [iDAI.world](https://isl.ics.forth.gr/bbt-federated-thesaurus/DAI/en/) (adapted) [[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.en); Creators: Annika Kirscheneder, Camilla Colombi, Elenore Pape, Gabriele Rasbach, Henriette Senst, Lena Vitt, Matthias Block, Nina Dworschak, Reinhard Förtsch, Sabine Thänert]  
+[4]: [Iron-Age-Danube](https://vocabs.acdh.oeaw.ac.at/iad_thesaurus/en/) [[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.en); Creator: Seta Štuhec]  
+[5]: [PARTHENOS](https://vocabs.acdh.oeaw.ac.at/parthenos_vocabularies/en/) (adapted) [[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.en); Creators: PARTHENOS project]  
+[6]: [OeAI](https://vocabs.acdh.oeaw.ac.at/oeai-cp/en/) (adapted) [[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.en); Creator: Micheline Welte]  
+[7]: [DHA Taxonomy](https://vocabs.acdh.oeaw.ac.at/dha_taxonomy/en/) (adapted) [[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.en); Creators: ACDH-OEAW Team]  
 [8]: [UNESCO](https://vocabularies.unesco.org/browser/thesaurus/en/) (adapted) [[CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/igo/); Creators: UNESCO]  
-[9]: [TaDiRAH](https://vocabs.dariah.eu/tadirah/en/) (adapted) [[CC0](https://creativecommons.org/publicdomain/zero/1.0/); Creators: Luise Borek, Canan Hastik, Vera Khramova, Jonathan Geiger]
+[9]: [TaDiRAH](https://vocabs.acdh.oeaw.ac.at/tadirah/en/) (adapted) [[CC0](https://creativecommons.org/publicdomain/zero/1.0/); Creators: Luise Borek, Canan Hastik, Vera Khramova, Jonathan Geiger]
 
 ## Literature
 [10]: Hill F, Reichart R, Korhonen A (2015) SimLex-999: Evaluating Semantic Models With (Genuine) Similarity Estimation. Computational Linguistics 41:665–695. https://doi.org/10.1162/COLI_a_00237
