@@ -1,4 +1,4 @@
-This folder contains the results of the OAEI 2024 campaign. 
+This folder contains the results of the [Digital Humanities](https://oaei.ontologymatching.org/2024/digitalhumanities/index.html) of the [OAEI 2024 campaign](https://oaei.ontologymatching.org/2024/). 
 
 ## Resources
 - 3,6 GHz 8-Core Intel i9, 32GB RAM
