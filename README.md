@@ -4,7 +4,7 @@
 
 ## Description
 
-This is a benchmark dataset for ontology matching in the field of Digital Humanities (DH) created by Felix Kraus. You can find all the general information about the dataset that you need for using it at the [OAEI](https://oaei.ontologymatching.org/) in this repository.
+This is a benchmark dataset for ontology matching in the field of Digital Humanities (DH) created by Felix Kraus (KIT). You can find all the general information about the dataset that you need for using it at the [OAEI](https://oaei.ontologymatching.org/) in this repository.
 For further information on the [OAEI 2024](http://oaei.ontologymatching.org/2024/) see also [here](https://oaei.ontologymatching.org/2024/digitalhumanities/index.html).   
 This benchmark dataset facilitaes the development of ontology matching systems for the Humanities, which face special obstacles that are at least partly addressed in this dataset:
 
