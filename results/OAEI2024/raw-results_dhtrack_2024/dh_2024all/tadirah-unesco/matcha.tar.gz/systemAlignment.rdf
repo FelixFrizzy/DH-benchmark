@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns="http://knowledgeweb.semanticweb.org/heterogeneity/alignment"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+<Alignment>
+  <xml>yes</xml>
+  <level>0</level>
+  <type>??</type>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://vocabs.dariah.eu/tadirah/opticalCharacterRecognition"/>
+      <entity2 rdf:resource="http://vocabularies.unesco.org/thesaurus/concept4954"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.792</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://vocabs.dariah.eu/tadirah/cataloging"/>
+      <entity2 rdf:resource="http://vocabularies.unesco.org/thesaurus/concept3799"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7232091428571429</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://vocabs.dariah.eu/tadirah/photographing"/>
+      <entity2 rdf:resource="http://vocabularies.unesco.org/thesaurus/concept11166"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6483481165048545</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://vocabs.dariah.eu/tadirah/transformation"/>
+      <entity2 rdf:resource="http://vocabularies.unesco.org/thesaurus/concept1151"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6131011764705883</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://vocabs.dariah.eu/tadirah/abstractThinking"/>
+      <entity2 rdf:resource="http://vocabularies.unesco.org/thesaurus/concept1022"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6487611428571429</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://vocabs.dariah.eu/tadirah/informationMining"/>
+      <entity2 rdf:resource="http://vocabularies.unesco.org/thesaurus/concept452"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6366587586206897</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://vocabs.dariah.eu/tadirah/informationRetrieval"/>
+      <entity2 rdf:resource="http://vocabularies.unesco.org/thesaurus/concept514"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.8909999999999999</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://vocabs.dariah.eu/tadirah/recording"/>
+      <entity2 rdf:resource="http://vocabularies.unesco.org/thesaurus/concept505"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.8806769051247705</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://vocabs.dariah.eu/tadirah/encoding"/>
+      <entity2 rdf:resource="http://vocabularies.unesco.org/thesaurus/concept5530"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.8909999999999999</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://vocabs.dariah.eu/tadirah/communicating"/>
+      <entity2 rdf:resource="http://vocabularies.unesco.org/thesaurus/concept460"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.8098999999999998</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://vocabs.dariah.eu/tadirah/videoConference"/>
+      <entity2 rdf:resource="http://vocabularies.unesco.org/thesaurus/concept6086"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6050454545454546</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://vocabs.dariah.eu/tadirah/patternRecognition"/>
+      <entity2 rdf:resource="http://vocabularies.unesco.org/thesaurus/concept3054"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.8909999999999999</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://vocabs.dariah.eu/tadirah/editing"/>
+      <entity2 rdf:resource="http://vocabularies.unesco.org/thesaurus/concept4200"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.8909999999999999</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://vocabs.dariah.eu/tadirah/archiving"/>
+      <entity2 rdf:resource="http://vocabularies.unesco.org/thesaurus/concept2737"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.61940736</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://vocabs.dariah.eu/tadirah/publishing"/>
+      <entity2 rdf:resource="http://vocabularies.unesco.org/thesaurus/concept3810"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.8909999999999999</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://vocabs.dariah.eu/tadirah/writing"/>
+      <entity2 rdf:resource="http://vocabularies.unesco.org/thesaurus/concept5829"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.8932788682588236</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://vocabs.dariah.eu/tadirah/drawing"/>
+      <entity2 rdf:resource="http://vocabularies.unesco.org/thesaurus/concept4716"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7147008</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://vocabs.dariah.eu/tadirah/contentAnalysis"/>
+      <entity2 rdf:resource="http://vocabularies.unesco.org/thesaurus/concept3321"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7524</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://vocabs.dariah.eu/tadirah/translating"/>
+      <entity2 rdf:resource="http://vocabularies.unesco.org/thesaurus/concept8357"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6866834285714285</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://vocabs.dariah.eu/tadirah/capturing"/>
+      <entity2 rdf:resource="http://vocabularies.unesco.org/thesaurus/concept511"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.688439652173913</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://vocabs.dariah.eu/tadirah/finding"/>
+      <entity2 rdf:resource="http://vocabularies.unesco.org/thesaurus/concept3939"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6166089512799339</measure>
+    </Cell>
+  </map>
+</Alignment>
+</rdf:RDF>

@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns="http://knowledgeweb.semanticweb.org/heterogeneity/alignment"
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<Alignment>
+<xml>yes</xml>
+<level>0</level>
+<type>??</type>
+<onto1>http://krono.act.uji.es/ontology.owl</onto1>
+<onto2>http://krono.act.uji.es/ontology.owl</onto2>
+<uri1>http://krono.act.uji.es/ontology.owl</uri1>
+<uri2>http://krono.act.uji.es/ontology.owl</uri2>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://thesauri.dainst.org/_eef15fc7"/>
+		<entity2 rdf:resource="https://isl.ics.forth.gr/parthenos_vocabularies/Concept/7148"/>
+		<measure rdf:datatype="xsd:float">0.87</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://thesauri.dainst.org/_8bca4bf1"/>
+		<entity2 rdf:resource="https://isl.ics.forth.gr/parthenos_vocabularies/Concept/7219"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://thesauri.dainst.org/_cadb286c"/>
+		<entity2 rdf:resource="https://isl.ics.forth.gr/parthenos_vocabularies/Concept/7162"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://thesauri.dainst.org/_59a790d9"/>
+		<entity2 rdf:resource="https://isl.ics.forth.gr/parthenos_vocabularies/Concept/7267"/>
+		<measure rdf:datatype="xsd:float">0.91</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://thesauri.dainst.org/_eef15fc7"/>
+		<entity2 rdf:resource="https://isl.ics.forth.gr/parthenos_vocabularies/Concept/7229"/>
+		<measure rdf:datatype="xsd:float">0.78</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://thesauri.dainst.org/_5d1ac0ba"/>
+		<entity2 rdf:resource="https://isl.ics.forth.gr/parthenos_vocabularies/Concept/7165"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://thesauri.dainst.org/_a0be179c"/>
+		<entity2 rdf:resource="https://isl.ics.forth.gr/parthenos_vocabularies/Concept/7107"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://thesauri.dainst.org/_697dc279"/>
+		<entity2 rdf:resource="https://isl.ics.forth.gr/parthenos_vocabularies/Concept/7118"/>
+		<measure rdf:datatype="xsd:float">0.91</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://thesauri.dainst.org/_4d1bfe78"/>
+		<entity2 rdf:resource="https://isl.ics.forth.gr/parthenos_vocabularies/Concept/7170"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://thesauri.dainst.org/_0117de29"/>
+		<entity2 rdf:resource="https://isl.ics.forth.gr/parthenos_vocabularies/Concept/7192"/>
+		<measure rdf:datatype="xsd:float">0.93</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://thesauri.dainst.org/_4d1096fb"/>
+		<entity2 rdf:resource="https://isl.ics.forth.gr/parthenos_vocabularies/Concept/7136"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://thesauri.dainst.org/_eef15fc7"/>
+		<entity2 rdf:resource="https://isl.ics.forth.gr/parthenos_vocabularies/Concept/7098"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://thesauri.dainst.org/_eef15fc7"/>
+		<entity2 rdf:resource="https://isl.ics.forth.gr/parthenos_vocabularies/Concept/7230"/>
+		<measure rdf:datatype="xsd:float">0.78</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://thesauri.dainst.org/_eef15fc7"/>
+		<entity2 rdf:resource="https://isl.ics.forth.gr/parthenos_vocabularies/Concept/7275"/>
+		<measure rdf:datatype="xsd:float">0.87</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://thesauri.dainst.org/_4b0d451a"/>
+		<entity2 rdf:resource="https://isl.ics.forth.gr/parthenos_vocabularies/Concept/7107"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://thesauri.dainst.org/_0117de29"/>
+		<entity2 rdf:resource="https://isl.ics.forth.gr/parthenos_vocabularies/Concept/7111"/>
+		<measure rdf:datatype="xsd:float">0.83</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://thesauri.dainst.org/_2b089ca4"/>
+		<entity2 rdf:resource="https://isl.ics.forth.gr/parthenos_vocabularies/Concept/7214"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://thesauri.dainst.org/_4184afc2"/>
+		<entity2 rdf:resource="https://isl.ics.forth.gr/parthenos_vocabularies/Concept/7164"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://thesauri.dainst.org/_0530b8a9"/>
+		<entity2 rdf:resource="https://isl.ics.forth.gr/parthenos_vocabularies/Concept/7179"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://thesauri.dainst.org/_eef15fc7"/>
+		<entity2 rdf:resource="https://isl.ics.forth.gr/parthenos_vocabularies/Concept/7100"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+</Alignment>
+</rdf:RDF>
