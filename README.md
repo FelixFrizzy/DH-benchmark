@@ -139,3 +139,6 @@ To create the manual alignment, the dataset creator went through each term of th
 - Creator: Felix Kraus
 - Email (subsitute accordingly): firstname.lastname (at) kit (dot) edu
 - License owner: Karlsruhe Institute of Technology (KIT)
+
+# Acknowledgement
+Development of this software product was funded by the research program “Engineering Digital Futures” of the Helmholtz Association of German Research Centers.
