@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rdf:RDF xmlns='http://knowledgeweb.semanticweb.org/heterogeneity/alignment'
+	xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+	xmlns:xsd='http://www.w3.org/2001/XMLSchema#'>
+	<Alignment>
+		<xml>yes</xml>
+		<level>0</level>
+		<type>??</type>
+
+		<onto1>
+			<Ontology rdf:about="/input/source.owl">
+			</Ontology>
+		</onto1>
+		<onto2>
+			<Ontology rdf:about="/input/target.owl">
+			</Ontology>
+		</onto2>
+		<map>
+			<Cell cid='1'>
+				<entity1 rdf:resource="http:///input/source#Concept" />
+				<entity2 rdf:resource="http:///input/target#Concept" />
+				<measure rdf:datatype="xsd:float">1.0</measure>
+				<relation>=</relation>
+			</Cell>
+		</map>
+	</Alignment>
+</rdf:RDF>

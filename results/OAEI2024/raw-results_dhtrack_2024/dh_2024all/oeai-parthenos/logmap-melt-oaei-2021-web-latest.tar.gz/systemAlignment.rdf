@@ -1,0 +1,679 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns="http://knowledgeweb.semanticweb.org/heterogeneity/alignment"
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<Alignment>
+<xml>yes</xml>
+<level>0</level>
+<type>??</type>
+<onto1>http://krono.act.uji.es/ontology.owl</onto1>
+<onto2>http://krono.act.uji.es/ontology.owl</onto2>
+<uri1>http://krono.act.uji.es/ontology.owl</uri1>
+<uri2>http://krono.act.uji.es/ontology.owl</uri2>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://vocabs.acdh.oeaw.ac.at/oeai-cultural-periods/concept23495"/>
+		<entity2 rdf:resource="https://isl.ics.forth.gr/parthenos_vocabularies/Concept/7172"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://vocabs.acdh.oeaw.ac.at/oeai-cultural-periods/concept23315"/>
+		<entity2 rdf:resource="https://isl.ics.forth.gr/parthenos_vocabularies/Concept/7100"/>
+		<measure rdf:datatype="xsd:float">0.77</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://vocabs.acdh.oeaw.ac.at/oeai-cultural-periods/concept23531"/>
+		<entity2 rdf:resource="https://isl.ics.forth.gr/parthenos_vocabularies/Concept/7207"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://vocabs.acdh.oeaw.ac.at/oeai-cultural-periods/concept23317"/>
+		<entity2 rdf:resource="https://isl.ics.forth.gr/parthenos_vocabularies/Concept/7230"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://vocabs.acdh.oeaw.ac.at/oeai-cultural-periods/concept23317"/>
+		<entity2 rdf:resource="https://isl.ics.forth.gr/parthenos_vocabularies/Concept/7154"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://vocabs.acdh.oeaw.ac.at/oeai-cultural-periods/concept23273"/>
+		<entity2 rdf:resource="https://isl.ics.forth.gr/parthenos_vocabularies/Concept/7247"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://vocabs.acdh.oeaw.ac.at/oeai-cultural-periods/concept23525"/>
+		<entity2 rdf:resource="https://isl.ics.forth.gr/parthenos_vocabularies/Concept/7149"/>
+		<measure rdf:datatype="xsd:float">0.97</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://vocabs.acdh.oeaw.ac.at/oeai-cultural-periods/concept23316"/>
+		<entity2 rdf:resource="https://isl.ics.forth.gr/parthenos_vocabularies/Concept/7204"/>
+		<measure rdf:datatype="xsd:float">0.79</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://vocabs.acdh.oeaw.ac.at/oeai-cultural-periods/concept23316"/>
+		<entity2 rdf:resource="https://isl.ics.forth.gr/parthenos_vocabularies/Concept/7205"/>
+		<measure rdf:datatype="xsd:float">0.79</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://vocabs.acdh.oeaw.ac.at/oeai-cultural-periods/concept23531"/>
+		<entity2 rdf:resource="https://isl.ics.forth.gr/parthenos_vocabularies/Concept/7246"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://vocabs.acdh.oeaw.ac.at/oeai-cultural-periods/concept23525"/>
+		<entity2 rdf:resource="https://isl.ics.forth.gr/parthenos_vocabularies/Concept/7183"/>
+		<measure rdf:datatype="xsd:float">0.95</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://vocabs.acdh.oeaw.ac.at/oeai-cultural-periods/concept23317"/>
+		<entity2 rdf:resource="https://isl.ics.forth.gr/parthenos_vocabularies/Concept/7229"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://vocabs.acdh.oeaw.ac.at/oeai-cultural-periods/concept23530"/>
+		<entity2 rdf:resource="https://isl.ics.forth.gr/parthenos_vocabularies/Concept/7219"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://vocabs.acdh.oeaw.ac.at/oeai-cultural-periods/concept23545"/>
+		<entity2 rdf:resource="https://isl.ics.forth.gr/parthenos_vocabularies/Concept/7178"/>
+		<measure rdf:datatype="xsd:float">0.97</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://vocabs.acdh.oeaw.ac.at/oeai-cultural-periods/concept23270"/>
+		<entity2 rdf:resource="https://isl.ics.forth.gr/parthenos_vocabularies/Concept/7243"/>
+		<measure rdf:datatype="xsd:float">0.87</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://vocabs.acdh.oeaw.ac.at/oeai-cultural-periods/concept23314"/>
+		<entity2 rdf:resource="https://isl.ics.forth.gr/parthenos_vocabularies/Concept/7114"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://vocabs.acdh.oeaw.ac.at/oeai-cultural-periods/concept23536"/>
+		<entity2 rdf:resource="https://isl.ics.forth.gr/parthenos_vocabularies/Concept/7087"/>
+		<measure rdf:datatype="xsd:float">0.88</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://vocabs.acdh.oeaw.ac.at/oeai-cultural-periods/concept23279"/>
+		<entity2 rdf:resource="https://isl.ics.forth.gr/parthenos_vocabularies/Concept/7183"/>
+		<measure rdf:datatype="xsd:float">0.82</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://vocabs.acdh.oeaw.ac.at/oeai-cultural-periods/concept23514"/>
+		<entity2 rdf:resource="https://isl.ics.forth.gr/parthenos_vocabularies/Concept/7200"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://vocabs.acdh.oeaw.ac.at/oeai-cultural-periods/concept23528"/>
+		<entity2 rdf:resource="https://isl.ics.forth.gr/parthenos_vocabularies/Concept/7099"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://vocabs.acdh.oeaw.ac.at/oeai-cultural-periods/concept23279"/>
+		<entity2 rdf:resource="https://isl.ics.forth.gr/parthenos_vocabularies/Concept/7149"/>
+		<measure rdf:datatype="xsd:float">0.86</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://vocabs.acdh.oeaw.ac.at/oeai-cultural-periods/concept23543"/>
+		<entity2 rdf:resource="https://isl.ics.forth.gr/parthenos_vocabularies/Concept/7243"/>
+		<measure rdf:datatype="xsd:float">0.79</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://vocabs.acdh.oeaw.ac.at/oeai-cultural-periods/concept23559"/>
+		<entity2 rdf:resource="https://isl.ics.forth.gr/parthenos_vocabularies/Concept/7227"/>
+		<measure rdf:datatype="xsd:float">0.87</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://vocabs.acdh.oeaw.ac.at/oeai-cultural-periods/concept23253"/>
+		<entity2 rdf:resource="https://isl.ics.forth.gr/parthenos_vocabularies/Concept/7180"/>
+		<measure rdf:datatype="xsd:float">0.91</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://vocabs.acdh.oeaw.ac.at/oeai-cultural-periods/concept23500"/>
+		<entity2 rdf:resource="https://isl.ics.forth.gr/parthenos_vocabularies/Concept/7243"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://vocabs.acdh.oeaw.ac.at/oeai-cultural-periods/concept23502"/>
+		<entity2 rdf:resource="https://isl.ics.forth.gr/parthenos_vocabularies/Concept/7098"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://vocabs.acdh.oeaw.ac.at/oeai-cultural-periods/concept23552"/>
+		<entity2 rdf:resource="https://isl.ics.forth.gr/parthenos_vocabularies/Concept/7193"/>
+		<measure rdf:datatype="xsd:float">0.83</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://vocabs.acdh.oeaw.ac.at/oeai-cultural-periods/concept23243"/>
+		<entity2 rdf:resource="https://isl.ics.forth.gr/parthenos_vocabularies/Concept/7146"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://vocabs.acdh.oeaw.ac.at/oeai-cultural-periods/concept23256"/>
+		<entity2 rdf:resource="https://isl.ics.forth.gr/parthenos_vocabularies/Concept/7130"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://vocabs.acdh.oeaw.ac.at/oeai-cultural-periods/concept23315"/>
+		<entity2 rdf:resource="https://isl.ics.forth.gr/parthenos_vocabularies/Concept/7190"/>
+		<measure rdf:datatype="xsd:float">0.77</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://vocabs.acdh.oeaw.ac.at/oeai-cultural-periods/concept23516"/>
+		<entity2 rdf:resource="https://isl.ics.forth.gr/parthenos_vocabularies/Concept/7225"/>
+		<measure rdf:datatype="xsd:float">0.89</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://vocabs.acdh.oeaw.ac.at/oeai-cultural-periods/concept23269"/>
+		<entity2 rdf:resource="https://isl.ics.forth.gr/parthenos_vocabularies/Concept/7243"/>
+		<measure rdf:datatype="xsd:float">0.84</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://vocabs.acdh.oeaw.ac.at/oeai-cultural-periods/concept23274"/>
+		<entity2 rdf:resource="https://isl.ics.forth.gr/parthenos_vocabularies/Concept/7194"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://vocabs.acdh.oeaw.ac.at/oeai-cultural-periods/concept23545"/>
+		<entity2 rdf:resource="https://isl.ics.forth.gr/parthenos_vocabularies/Concept/7145"/>
+		<measure rdf:datatype="xsd:float">0.85</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://vocabs.acdh.oeaw.ac.at/oeai-cultural-periods/concept23319"/>
+		<entity2 rdf:resource="https://isl.ics.forth.gr/parthenos_vocabularies/Concept/7249"/>
+		<measure rdf:datatype="xsd:float">0.82</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://vocabs.acdh.oeaw.ac.at/oeai-cultural-periods/concept23275"/>
+		<entity2 rdf:resource="https://isl.ics.forth.gr/parthenos_vocabularies/Concept/7216"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://vocabs.acdh.oeaw.ac.at/oeai-cultural-periods/concept23498"/>
+		<entity2 rdf:resource="https://isl.ics.forth.gr/parthenos_vocabularies/Concept/7171"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://vocabs.acdh.oeaw.ac.at/oeai-cultural-periods/concept23552"/>
+		<entity2 rdf:resource="https://isl.ics.forth.gr/parthenos_vocabularies/Concept/7220"/>
+		<measure rdf:datatype="xsd:float">0.83</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://vocabs.acdh.oeaw.ac.at/oeai-cultural-periods/concept23552"/>
+		<entity2 rdf:resource="https://isl.ics.forth.gr/parthenos_vocabularies/Concept/7222"/>
+		<measure rdf:datatype="xsd:float">0.9</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://vocabs.acdh.oeaw.ac.at/oeai-cultural-periods/concept23317"/>
+		<entity2 rdf:resource="https://isl.ics.forth.gr/parthenos_vocabularies/Concept/7115"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://vocabs.acdh.oeaw.ac.at/oeai-cultural-periods/concept23195"/>
+		<entity2 rdf:resource="https://isl.ics.forth.gr/parthenos_vocabularies/Concept/7221"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://vocabs.acdh.oeaw.ac.at/oeai-cultural-periods/concept23272"/>
+		<entity2 rdf:resource="https://isl.ics.forth.gr/parthenos_vocabularies/Concept/7266"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://vocabs.acdh.oeaw.ac.at/oeai-cultural-periods/concept23280"/>
+		<entity2 rdf:resource="https://isl.ics.forth.gr/parthenos_vocabularies/Concept/7149"/>
+		<measure rdf:datatype="xsd:float">0.86</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://vocabs.acdh.oeaw.ac.at/oeai-cultural-periods/concept23546"/>
+		<entity2 rdf:resource="https://isl.ics.forth.gr/parthenos_vocabularies/Concept/7184"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://vocabs.acdh.oeaw.ac.at/oeai-cultural-periods/concept23225"/>
+		<entity2 rdf:resource="https://isl.ics.forth.gr/parthenos_vocabularies/Concept/7094"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://vocabs.acdh.oeaw.ac.at/oeai-cultural-periods/concept23502"/>
+		<entity2 rdf:resource="https://isl.ics.forth.gr/parthenos_vocabularies/Concept/7100"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://vocabs.acdh.oeaw.ac.at/oeai-cultural-periods/concept23557"/>
+		<entity2 rdf:resource="https://isl.ics.forth.gr/parthenos_vocabularies/Concept/7122"/>
+		<measure rdf:datatype="xsd:float">0.86</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://vocabs.acdh.oeaw.ac.at/oeai-cultural-periods/concept23552"/>
+		<entity2 rdf:resource="https://isl.ics.forth.gr/parthenos_vocabularies/Concept/7086"/>
+		<measure rdf:datatype="xsd:float">0.76</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://vocabs.acdh.oeaw.ac.at/oeai-cultural-periods/concept23226"/>
+		<entity2 rdf:resource="https://isl.ics.forth.gr/parthenos_vocabularies/Concept/7238"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://vocabs.acdh.oeaw.ac.at/oeai-cultural-periods/concept23552"/>
+		<entity2 rdf:resource="https://isl.ics.forth.gr/parthenos_vocabularies/Concept/7085"/>
+		<measure rdf:datatype="xsd:float">0.76</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://vocabs.acdh.oeaw.ac.at/oeai-cultural-periods/concept23560"/>
+		<entity2 rdf:resource="https://isl.ics.forth.gr/parthenos_vocabularies/Concept/7107"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://vocabs.acdh.oeaw.ac.at/oeai-cultural-periods/concept23260"/>
+		<entity2 rdf:resource="https://isl.ics.forth.gr/parthenos_vocabularies/Concept/7239"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://vocabs.acdh.oeaw.ac.at/oeai-cultural-periods/concept23553"/>
+		<entity2 rdf:resource="https://isl.ics.forth.gr/parthenos_vocabularies/Concept/7142"/>
+		<measure rdf:datatype="xsd:float">0.88</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://vocabs.acdh.oeaw.ac.at/oeai-cultural-periods/concept23316"/>
+		<entity2 rdf:resource="https://isl.ics.forth.gr/parthenos_vocabularies/Concept/7226"/>
+		<measure rdf:datatype="xsd:float">0.79</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://vocabs.acdh.oeaw.ac.at/oeai-cultural-periods/concept23194"/>
+		<entity2 rdf:resource="https://isl.ics.forth.gr/parthenos_vocabularies/Concept/7215"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://vocabs.acdh.oeaw.ac.at/oeai-cultural-periods/concept23503"/>
+		<entity2 rdf:resource="https://isl.ics.forth.gr/parthenos_vocabularies/Concept/7249"/>
+		<measure rdf:datatype="xsd:float">0.96</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://vocabs.acdh.oeaw.ac.at/oeai-cultural-periods/concept23557"/>
+		<entity2 rdf:resource="https://isl.ics.forth.gr/parthenos_vocabularies/Concept/7084"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://vocabs.acdh.oeaw.ac.at/oeai-cultural-periods/concept23278"/>
+		<entity2 rdf:resource="https://isl.ics.forth.gr/parthenos_vocabularies/Concept/7149"/>
+		<measure rdf:datatype="xsd:float">0.84</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://vocabs.acdh.oeaw.ac.at/oeai-cultural-periods/concept23196"/>
+		<entity2 rdf:resource="https://isl.ics.forth.gr/parthenos_vocabularies/Concept/7139"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://vocabs.acdh.oeaw.ac.at/oeai-cultural-periods/concept23278"/>
+		<entity2 rdf:resource="https://isl.ics.forth.gr/parthenos_vocabularies/Concept/7183"/>
+		<measure rdf:datatype="xsd:float">0.79</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://vocabs.acdh.oeaw.ac.at/oeai-cultural-periods/concept23315"/>
+		<entity2 rdf:resource="https://isl.ics.forth.gr/parthenos_vocabularies/Concept/7116"/>
+		<measure rdf:datatype="xsd:float">0.77</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://vocabs.acdh.oeaw.ac.at/oeai-cultural-periods/concept23280"/>
+		<entity2 rdf:resource="https://isl.ics.forth.gr/parthenos_vocabularies/Concept/7183"/>
+		<measure rdf:datatype="xsd:float">0.82</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://vocabs.acdh.oeaw.ac.at/oeai-cultural-periods/concept23195"/>
+		<entity2 rdf:resource="https://isl.ics.forth.gr/parthenos_vocabularies/Concept/7236"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://vocabs.acdh.oeaw.ac.at/oeai-cultural-periods/concept23277"/>
+		<entity2 rdf:resource="https://isl.ics.forth.gr/parthenos_vocabularies/Concept/7118"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://vocabs.acdh.oeaw.ac.at/oeai-cultural-periods/concept23544"/>
+		<entity2 rdf:resource="https://isl.ics.forth.gr/parthenos_vocabularies/Concept/7188"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://vocabs.acdh.oeaw.ac.at/oeai-cultural-periods/concept23502"/>
+		<entity2 rdf:resource="https://isl.ics.forth.gr/parthenos_vocabularies/Concept/7275"/>
+		<measure rdf:datatype="xsd:float">0.87</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://vocabs.acdh.oeaw.ac.at/oeai-cultural-periods/concept23315"/>
+		<entity2 rdf:resource="https://isl.ics.forth.gr/parthenos_vocabularies/Concept/7098"/>
+		<measure rdf:datatype="xsd:float">0.77</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://vocabs.acdh.oeaw.ac.at/oeai-cultural-periods/concept23522"/>
+		<entity2 rdf:resource="https://isl.ics.forth.gr/parthenos_vocabularies/Concept/7224"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://vocabs.acdh.oeaw.ac.at/oeai-cultural-periods/concept23502"/>
+		<entity2 rdf:resource="https://isl.ics.forth.gr/parthenos_vocabularies/Concept/7230"/>
+		<measure rdf:datatype="xsd:float">0.78</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://vocabs.acdh.oeaw.ac.at/oeai-cultural-periods/concept23559"/>
+		<entity2 rdf:resource="https://isl.ics.forth.gr/parthenos_vocabularies/Concept/7182"/>
+		<measure rdf:datatype="xsd:float">0.82</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://vocabs.acdh.oeaw.ac.at/oeai-cultural-periods/concept23276"/>
+		<entity2 rdf:resource="https://isl.ics.forth.gr/parthenos_vocabularies/Concept/7147"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://vocabs.acdh.oeaw.ac.at/oeai-cultural-periods/concept23271"/>
+		<entity2 rdf:resource="https://isl.ics.forth.gr/parthenos_vocabularies/Concept/7140"/>
+		<measure rdf:datatype="xsd:float">0.89</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://vocabs.acdh.oeaw.ac.at/oeai-cultural-periods/concept23559"/>
+		<entity2 rdf:resource="https://isl.ics.forth.gr/parthenos_vocabularies/Concept/7186"/>
+		<measure rdf:datatype="xsd:float">0.82</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://vocabs.acdh.oeaw.ac.at/oeai-cultural-periods/concept23316"/>
+		<entity2 rdf:resource="https://isl.ics.forth.gr/parthenos_vocabularies/Concept/7237"/>
+		<measure rdf:datatype="xsd:float">0.79</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://vocabs.acdh.oeaw.ac.at/oeai-cultural-periods/concept23558"/>
+		<entity2 rdf:resource="https://isl.ics.forth.gr/parthenos_vocabularies/Concept/7118"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://vocabs.acdh.oeaw.ac.at/oeai-cultural-periods/concept23318"/>
+		<entity2 rdf:resource="https://isl.ics.forth.gr/parthenos_vocabularies/Concept/7125"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://vocabs.acdh.oeaw.ac.at/oeai-cultural-periods/concept23320"/>
+		<entity2 rdf:resource="https://isl.ics.forth.gr/parthenos_vocabularies/Concept/7249"/>
+		<measure rdf:datatype="xsd:float">0.84</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://vocabs.acdh.oeaw.ac.at/oeai-cultural-periods/concept23247"/>
+		<entity2 rdf:resource="https://isl.ics.forth.gr/parthenos_vocabularies/Concept/7189"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://vocabs.acdh.oeaw.ac.at/oeai-cultural-periods/concept23532"/>
+		<entity2 rdf:resource="https://isl.ics.forth.gr/parthenos_vocabularies/Concept/7179"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://vocabs.acdh.oeaw.ac.at/oeai-cultural-periods/concept23244"/>
+		<entity2 rdf:resource="https://isl.ics.forth.gr/parthenos_vocabularies/Concept/7268"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://vocabs.acdh.oeaw.ac.at/oeai-cultural-periods/concept23502"/>
+		<entity2 rdf:resource="https://isl.ics.forth.gr/parthenos_vocabularies/Concept/7148"/>
+		<measure rdf:datatype="xsd:float">0.87</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://vocabs.acdh.oeaw.ac.at/oeai-cultural-periods/concept23552"/>
+		<entity2 rdf:resource="https://isl.ics.forth.gr/parthenos_vocabularies/Concept/7169"/>
+		<measure rdf:datatype="xsd:float">0.78</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://vocabs.acdh.oeaw.ac.at/oeai-cultural-periods/concept23502"/>
+		<entity2 rdf:resource="https://isl.ics.forth.gr/parthenos_vocabularies/Concept/7229"/>
+		<measure rdf:datatype="xsd:float">0.78</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+</Alignment>
+</rdf:RDF>

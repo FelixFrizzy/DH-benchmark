@@ -1,0 +1,5 @@
+Type,Macro Precision (P),Macro Recall (R),Residual Macro Recall (R+),Macro F1,Micro Precision (P),Micro Recall (R),Residual Micro Recall (R+),Micro F1,"# of TP","# of Residual TP","# of FP","# of FN","# of Correspondences",Total Runtime,Total Runtime (HH:MM:SS)
+ALL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,3,168,18,1336552808785,00:22:16
+CLASSES,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,3,0,18,-,-
+PROPERTIES,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,-,-
+INSTANCES,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,168,0,-,-
