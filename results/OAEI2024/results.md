@@ -37,7 +37,7 @@ The raw results can be found in the `raw-results_dhtrack_2024` folder in this re
 (table)
 
 ## Discussion
-When we examine the average F1-scores across all matchers, they range from 0.33 to 0.76. This indicates that while the matchers perform fairly well on some test cases, there is considerable room for improvement on others. Notably, PARTHENOS appears in both the test case with the highest F1-score (oeai-parthenos) and the one with the lowest F1-score (idai-parthenos). This can be explained by the fact that the paired CVs differ in language: _iDAI_ almost only includes German terms, _PARTHENOS_ only English and OeAI German and English. This suggests that most matching systems focus on English ontologies and struggle to deal with other languages. It also indicates that the systems are more sensitive to language differences than to the actual domain of the terms.
+When we examine the F1-scores averaged over all matchers, they range from 0.33 to 0.76. This indicates that while the matchers perform fairly well on some test cases, there is considerable room for improvement on others. 
 
 When comparing the matching systems, LogMap has the best averaged F1-score of 0.60, but the other systems with 0.53 are not far off.
 
