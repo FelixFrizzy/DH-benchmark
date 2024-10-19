@@ -1,9 +1,13 @@
-This folder contains the results of the [Digital Humanities](https://oaei.ontologymatching.org/2024/digitalhumanities/index.html) of the [OAEI 2024 campaign](https://oaei.ontologymatching.org/2024/). 
+# Results of the [Digital Humanities track](https://oaei.ontologymatching.org/2024/digitalhumanities/index.html) of the [OAEI 2024 campaign](https://oaei.ontologymatching.org/2024/)
+OAEI 2024 is the first year for the DH track to participate. For information about the goal of this track and information about the test cases, refer to the [Readme](https://github.com/FelixFrizzy/DH-benchmark/blob/main/README.md).
+
+# Evaluation Modalities
+We used precision, recall and F1-score for evaluation and only evaluated equivalence relationships. If matching systems resulted in either errors or zero identified matches, we considered them as failed. Adhering the [OAEI rules](https://oaei.ontologymatching.org/doc/oaei-rules.2.html), we didn't change any settings for the matching systems. 
 
 ## Resources
 - VM with 8 x 2.4 GHz cores, 16GB RAM
 
-## Steps to reproduce results
+## Steps to Reproduce the Results
 - Download the evaluation client [evaluation client](https://nightly.link/dwslab/melt/workflows/java_client_upload/master/evaluation-client.zip) as explained in the [documentation](https://dwslab.github.io/melt/matcher-evaluation/client).
 - Download the 2024 (or any other MELT compatible) matchers and put them in the same folder.
 - Run the command
@@ -30,7 +34,19 @@ The raw results can be found in the `raw-results_dhtrack_2024` folder in this re
     - OntoMatch (standalone, not possible to run with MELT / SEALS)
 
 ## Recall, Precision, F1-Score
-(table)
+## Precision, Recall, F1-Score
+| Test Case                   |Precision |                |               |           |Recall    |            |           |          |F1-Score  |            |           |          |
+| --------------------------- | -------- | -------------- | ------------- | --------- | -------- | ---------- | --------- | -------- | -------- | ---------- | --------- | -------- |
+|                             | LogMap   | LogMap Bio     | LogMap KG     | Matcha    | LogMap   | LogMap Bio | LogMap KG | Matcha   | LogMap   | LogMap Bio | LogMap KG | Matcha   |
+| arch1_defc-pactols          | 0.33     | 0.20           | 0.90          | **1.00**  | **1.00** | 0.20       | 0.90      | 0.90     | 0.50     | 0.20       | 0.90      | **0.95** |
+| arch2_idai-pactols          | 0.35     | **0.40**       | **0.40**      | 0.31      | **1.00** | 0.71       | 0.71      | 0.24     | **0.52** | 0.51       | 0.51      | 0.27     |
+| arch3_ironagedanube-pactols | 0.31     | 0.40           | 0.40          | **0.67**  | **0.80** | **0.80**   | **0.80**  | **0.80** | 0.44     | 0.53       | 0.53      | **0.73** |
+| arch4_pactols-parthenos     | 0.42     | 0.71           | 0.71          | **0.83**  | **0.92** | 0.83       | 0.83      | 0.83     | 0.58     | 0.77       | 0.77      | **0.83** |
+| cult1_idai-parthenos        | 0.70     | **1.00**       | **1.00**      | 0.00      | **0.27** | 0.17       | 0.17      | 0.00     | **0.39** | 0.30       | 0.30      | 0.00     |
+| cult2_oeai-parthenos        | 0.51     | **1.00**       | **1.00**      | 0.90      | **0.89** | 0.68       | 0.68      | 0.74     | 0.65     | **0.81**   | **0.81**  | **0.81** |
+| dhcs1_dha-unesco            | 0.25     | **0.50**       | **0.50**      | 0.08      | **0.90** | 0.40       | 0.40      | 0.60     | 0.39     | **0.44**   | **0.44**  | 0.14     |
+| dhcs2_tadirah-unesco        | 0.48     | **0.53**       | 0.22          | 0.00      | 0.67     | 0.67       | **0.80**  | 0.00     | 0.56     | **0.59**   | 0.35      | 0.00     |
+| Average over all tracks     | 0.42     | 0.59           | **0.64**      | 0.49      | **0.81** | 0.56       | 0.66      | 0.58     | 0.50     | 0.52       | **0.58**      | 0.53 |
 
 
 ## Runtimes
@@ -50,4 +66,5 @@ In general, less than half of the evaluated matchers, and only one matcher that 
 [2] C. Caracciolo, J. Euzenat, L. Hollink, R. Ichise, A. Isaac, V. Malaisé, C. Meilicke, J. Pane, P. Shvaiko, H. Stuckenschmidt, O. Sváb-Zamazal, V. Svátek, Results of the Ontology Alignment Evaluation Initiative 2008, in: P. Shvaiko, J. Euzenat, F. Giunchiglia, H. Stuckenschmidt (Eds.), Proceedings of the 3rd International Workshop on Ontology Matching (OM-2008), volume 431 of CEUR Workshop Proceedings, CEUR-WS.org, Karlsruhe, Germany, 2008.
 
 # Acknowledgement
-The execution of this evaluation was funded by the research program “Engineering Digital Futures” of the Helmholtz Association of German Research Centers.
+The execution of this evaluation was funded by the research program “Engineering Digital Futures” of the Helmholtz Association of German Research Centers.## Raw Alignments
+Download [here](#TODO link)
