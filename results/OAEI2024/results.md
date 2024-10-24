@@ -45,23 +45,24 @@ The raw results can be found in the `raw-results_dhtrack_2024` folder in this re
 | cult1_idai-parthenos        | 0.70     | **1.00**       | **1.00**      | 0.00      | **0.27** | 0.17       | 0.17      | 0.00     | **0.39** | 0.30       | 0.30      | 0.00     |
 | cult2_oeai-parthenos        | 0.51     | **1.00**       | **1.00**      | 0.90      | **0.89** | 0.68       | 0.68      | 0.74     | 0.65     | **0.81**   | **0.81**  | **0.81** |
 | dhcs1_dha-unesco            | 0.25     | **0.50**       | **0.50**      | 0.08      | **0.90** | 0.40       | 0.40      | 0.60     | 0.39     | **0.44**   | **0.44**  | 0.14     |
-| dhcs2_tadirah-unesco        | 0.48     | **0.53**       | 0.22          | 0.00      | 0.67     | 0.67       | **0.80**  | 0.00     | 0.56     | **0.59**   | 0.35      | 0.00     |
-| Average over all tracks     | 0.42     | 0.59           | **0.64**      | 0.49      | **0.81** | 0.56       | 0.66      | 0.58     | 0.50     | 0.52       | **0.58**      | 0.53 |
+| dhcs2_tadirah-unesco        | 0.22     | 0.00           | **0.53**      | 0.48      | **0.80** | 0.00       | 0.67      | 0.67     | 0.35     | 0.00       | **0.59**  | 0.56     |
+| Average over all tracks     | 0.39     | 0.53           | **0.68**      | 0.53      | **0.82** | 0.47       | 0.64      | 0.60     | 0.48     | 0.45       | **0.61**  | 0.54     |
+
 
 ## Average (mean) over matchers
 
-| Test Case                   |Precision | Recall    | F1-Score |
-| --------------------------- | -------- | --------- | -------- |
-| arch1_defc-pactols          | 0.61     | 0.75      | 0.64     |
-| arch2_idai-pactols          | 0.44     | 0.80      | 0.56     |
-| arch3_ironagedanube-pactols | 0.88     | 0.36      | 0.45     |
-| arch4_pactols-parthenos     | 0.33     | 0.58      | 0.36     |
-| cult1_idai-parthenos        | 0.46     | 0.65      | 0.53     |
-| cult2_oeai-parthenos        | 0.85     | 0.75      | 0.77     |
-| dhcs1_dha-unesco            | 0.36     | 0.66      | 0.45     |
-| dhcs2_tadirah-unesco        | 0.31     | 0.53      | 0.37     |
-| Average over all tracks     | 0.53     | 0.63      | 0.52     |
-
+| Test Case                   |Precision  | Recall    | F1-Score |
+| --------------------------- | --------  | --------- | -------- |
+| arch1_defc-pactols          | 0.61      | 0.75      | 0.64     |
+| arch2_idai-pactols          | 0.36      | 0.66      | 0.45     |
+| arch3_ironagedanube-pactols | 0.44      | 0.80      | 0.56     |
+| arch4_pactols-parthenos     | 0.67      | **0.85**  | 0.74     |
+| cult1_idai-parthenos        | 0.68      | 0.15      | 0.24     |
+| cult2_oeai-parthenos        | **0.85**  | 0.75      | **0.77** |
+| dhcs1_dha-unesco            | 0.33      | 0.58      | 0.36     |
+| dhcs2_tadirah-unesco        | 0.31      | 0.53      | 0.37     |
+| Average over all tracks     | 0.53      | 0.63      | 0.52     |
+ 
 
 ## Runtimes
 | Matcher     | total runtime (hh:mm:ss) |
