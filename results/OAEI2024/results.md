@@ -2,7 +2,7 @@
 OAEI 2024 is the first year for the DH track to participate. For information about the goal of this track and information about the test cases, refer to the [Readme](https://github.com/FelixFrizzy/DH-benchmark/blob/main/README.md).
 
 # Evaluation Modalities
-We used precision, recall and F1-score for evaluation and only evaluated equivalence relationships. If matching systems resulted in either errors or zero identified matches, we considered them as failed. Adhering the [OAEI rules](https://oaei.ontologymatching.org/doc/oaei-rules.2.html), we didn't change any settings for the matching systems. 
+We used the dataset v1.0.0 (https://doi.org/10.5281/zenodo.12731588) and precision, recall and F1-score for evaluation and only evaluated equivalence relationships. If matching systems resulted in either errors or zero identified matches, we considered them as failed. Adhering the [OAEI rules](https://oaei.ontologymatching.org/doc/oaei-rules.2.html), we didn't change any settings for the matching systems. 
 
 ## Resources
 - VM with 8 x 2.4 GHz cores, 16GB RAM
