@@ -137,7 +137,7 @@ To create the manual alignment, the dataset creator went through each term of th
 
 # Contact information
 - Creator: Felix Kraus
-- Email (subsitute accordingly): firstname.lastname (at) kit (dot) edu
+- Email (substitute accordingly): firstname.lastname (at) kit (dot) edu
 - License owner: Karlsruhe Institute of Technology (KIT)
 
 # Acknowledgement
