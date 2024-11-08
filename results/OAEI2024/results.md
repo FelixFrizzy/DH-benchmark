@@ -74,9 +74,9 @@ The raw results can be found in the `raw-results_dhtrack_2024` folder in this re
 | TOMATO      | 00:00:21                 |
 
 ## Discussion
-When we examine the F1-scores averaged over all matchers, they range from 0.33 to 0.76. This indicates that while the matchers perform fairly well on some test cases, there is considerable room for improvement on others. 
+When we examine the F1-scores averaged over all matchers, they range from 0.24 to 0.77. This indicates that while the matchers perform fairly well on some test cases, there is considerable room for improvement on others. 
 
-When comparing the matching systems, LogMap has the best averaged F1-score of 0.60, but the other systems with 0.53 are not far off.
+When comparing the matching systems, LogMap KG has the best averaged F1-score of 0.61.
 
 Looking at execution times, the all are in the same range, between 13s and 21s to run the full track. The only exception is LogMap lite with over 20min but still results in an empty aligment.
 
