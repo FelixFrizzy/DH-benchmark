@@ -88,7 +88,7 @@ There were five different vocabularies used for the two different DH/CS test cas
 - [UNESCO](https://vocabularies.unesco.org/browser/thesaurus/en/) [8]
     - Adapted version: Only narrower terms and direct ancestors of the concept "[Information and communication](http://vocabularies.unesco.org/thesaurus/domain5)" were used
     - About 490 terms
-    - Languages: Arabic, English, French, Russion, Spanish
+    - Languages: Arabic, English, French, Russian, Spanish
 - [TaDiRAH](https://vocabs.acdh.oeaw.ac.at/tadirah/en/) [9]
     - About 170 terms
     - Main Language: English 
