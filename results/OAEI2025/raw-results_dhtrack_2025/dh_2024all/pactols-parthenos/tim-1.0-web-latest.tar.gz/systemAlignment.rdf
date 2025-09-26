@@ -1,0 +1,514 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns="http://knowledgeweb.semanticweb.org/heterogeneity/alignment"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+<Alignment>
+  <xml>yes</xml>
+  <level>0</level>
+  <type>??</type>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://purl.org/umu/uneskos#memberOf"/>
+      <entity2 rdf:resource="http://www.w3.org/2004/02/skos/core#notation"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://purl.org/dc/terms/created"/>
+      <entity2 rdf:resource="http://purl.org/dc/terms/created"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.w3.org/2004/02/skos/core#definition"/>
+      <entity2 rdf:resource="http://www.w3.org/2004/02/skos/core#definition"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtHIjtOg1P75"/>
+      <entity2 rdf:resource="https://isl.ics.forth.gr/parthenos_vocabularies/Concept/32228"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtJUwAaZ7Nz9"/>
+      <entity2 rdf:resource="https://isl.ics.forth.gr/parthenos_vocabularies/Concept/32715"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtxKnfzXYMxK"/>
+      <entity2 rdf:resource="https://isl.ics.forth.gr/parthenos_vocabularies/Concept/32324"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.w3.org/2004/02/skos/core#broader"/>
+      <entity2 rdf:resource="http://www.w3.org/2004/02/skos/core#broader"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrt9PJh9aTXv4"/>
+      <entity2 rdf:resource="https://isl.ics.forth.gr/parthenos_vocabularies/Concept/32199"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://ark.frantiq.fr/ark:/26678/crtdVpqD9Y6ym"/>
+      <entity2 rdf:resource="https://isl.ics.forth.gr/parthenos_vocabularies/Concept/32506"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrt7XYoF5la6b"/>
+      <entity2 rdf:resource="https://isl.ics.forth.gr/parthenos_vocabularies/Concept/32855"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.w3.org/2004/02/skos/core#broadMatch"/>
+      <entity2 rdf:resource="http://www.w3.org/2004/02/skos/core#broadMatch"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrt36pke8yWxW"/>
+      <entity2 rdf:resource="https://isl.ics.forth.gr/parthenos_vocabularies/Concept/32578"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtXGgQa70ZVU"/>
+      <entity2 rdf:resource="https://isl.ics.forth.gr/parthenos_vocabularies/Concept/32504"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.w3.org/2004/02/skos/core#topConceptOf"/>
+      <entity2 rdf:resource="http://www.w3.org/2004/02/skos/core#topConceptOf"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#type"/>
+      <entity2 rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#type"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtQpKQcDolxc"/>
+      <entity2 rdf:resource="https://isl.ics.forth.gr/parthenos_vocabularies/Concept/32394"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://purl.org/dc/terms/language"/>
+      <entity2 rdf:resource="http://purl.org/dc/terms/date"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.w3.org/2000/01/rdf-schema#label"/>
+      <entity2 rdf:resource="http://www.w3.org/2000/01/rdf-schema#label"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtSp0Bn88zX1"/>
+      <entity2 rdf:resource="https://isl.ics.forth.gr/parthenos_vocabularies/Concept/32683"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtQY3u48DUrQ"/>
+      <entity2 rdf:resource="https://isl.ics.forth.gr/parthenos_vocabularies/Concept/32927"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtGYzRry8HxI"/>
+      <entity2 rdf:resource="https://isl.ics.forth.gr/parthenos_vocabularies/Concept/32514"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://purl.org/dc/terms/format"/>
+      <entity2 rdf:resource="http://purl.org/dc/terms/license"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.w3.org/2004/02/skos/core#inScheme"/>
+      <entity2 rdf:resource="http://www.w3.org/2004/02/skos/core#inScheme"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtpZHoU1vm9o"/>
+      <entity2 rdf:resource="https://isl.ics.forth.gr/parthenos_vocabularies/Concept/32990"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtVhTRix41ic"/>
+      <entity2 rdf:resource="https://isl.ics.forth.gr/parthenos_vocabularies/Concept/32286"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtp5Wcpmp9I3"/>
+      <entity2 rdf:resource="https://isl.ics.forth.gr/parthenos_vocabularies/Concept/32433"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtmE7KBD6QPZ"/>
+      <entity2 rdf:resource="https://isl.ics.forth.gr/parthenos_vocabularies/Concept/32638"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.w3.org/2004/02/skos/core#prefLabel"/>
+      <entity2 rdf:resource="http://www.w3.org/2004/02/skos/core#prefLabel"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrt0Krn6QJlhU"/>
+      <entity2 rdf:resource="https://isl.ics.forth.gr/parthenos_vocabularies/Concept/32887"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtiaQHMzQVGS"/>
+      <entity2 rdf:resource="https://isl.ics.forth.gr/parthenos_vocabularies/Concept/32262"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtKei7jxhn32"/>
+      <entity2 rdf:resource="https://isl.ics.forth.gr/parthenos_vocabularies/Concept/32296"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtMZpgRPheIJ"/>
+      <entity2 rdf:resource="https://isl.ics.forth.gr/parthenos_vocabularies/Concept/32347"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtSu7E2Qh0Xv"/>
+      <entity2 rdf:resource="https://isl.ics.forth.gr/parthenos_vocabularies/Concept/32590"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <entity2 rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtJsptp5o6h6"/>
+      <entity2 rdf:resource="https://isl.ics.forth.gr/parthenos_vocabularies/Concept/32857"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtF9P4mbuyGk"/>
+      <entity2 rdf:resource="https://isl.ics.forth.gr/parthenos_vocabularies/Concept/32655"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.w3.org/2004/02/skos/core#narrower"/>
+      <entity2 rdf:resource="http://www.w3.org/2004/02/skos/core#narrower"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtoeb7huexQ8"/>
+      <entity2 rdf:resource="https://isl.ics.forth.gr/parthenos_vocabularies/Concept/32730"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://purl.org/dc/terms/creator"/>
+      <entity2 rdf:resource="http://purl.org/dc/terms/creator"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrt66PQUHwXaw"/>
+      <entity2 rdf:resource="https://isl.ics.forth.gr/parthenos_vocabularies/Concept/32499"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.w3.org/2000/01/rdf-schema#type"/>
+      <entity2 rdf:resource="http://www.w3.org/2000/01/rdf-schema#type"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtkeLpJpVN4t"/>
+      <entity2 rdf:resource="https://isl.ics.forth.gr/parthenos_vocabularies/Concept/32490"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrt5ecRHjSZTM"/>
+      <entity2 rdf:resource="https://isl.ics.forth.gr/parthenos_vocabularies/Concept/32339"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.w3.org/2000/01/rdf-schema#isDefinedBy"/>
+      <entity2 rdf:resource="http://www.w3.org/2000/01/rdf-schema#isDefinedBy"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtx4sFxmENjb"/>
+      <entity2 rdf:resource="https://isl.ics.forth.gr/parthenos_vocabularies/Concept/32867"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtNU9yWjKe6U"/>
+      <entity2 rdf:resource="https://isl.ics.forth.gr/parthenos_vocabularies/Concept/32636"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtrMvNrtSOHs"/>
+      <entity2 rdf:resource="https://isl.ics.forth.gr/parthenos_vocabularies/Concept/32602"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtKRh9yNZI9v"/>
+      <entity2 rdf:resource="https://isl.ics.forth.gr/parthenos_vocabularies/Concept/32906"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtAqKgmvERHQ"/>
+      <entity2 rdf:resource="https://isl.ics.forth.gr/parthenos_vocabularies/Concept/32641"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtxdz8S5BdEg"/>
+      <entity2 rdf:resource="https://isl.ics.forth.gr/parthenos_vocabularies/Concept/32207"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtWouRhFysgx"/>
+      <entity2 rdf:resource="https://isl.ics.forth.gr/parthenos_vocabularies/Concept/32653"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrt9WXX2cWeOQ"/>
+      <entity2 rdf:resource="https://isl.ics.forth.gr/parthenos_vocabularies/Concept/32761"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtdreB1dmB38"/>
+      <entity2 rdf:resource="https://isl.ics.forth.gr/parthenos_vocabularies/Concept/32808"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtUia9QuUpdR"/>
+      <entity2 rdf:resource="https://isl.ics.forth.gr/parthenos_vocabularies/Concept/32945"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtmyppdDISBL"/>
+      <entity2 rdf:resource="https://isl.ics.forth.gr/parthenos_vocabularies/Concept/32246"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrt7UXeYrS8Nb"/>
+      <entity2 rdf:resource="https://isl.ics.forth.gr/parthenos_vocabularies/Concept/32215"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrts62Z2hl4ux"/>
+      <entity2 rdf:resource="https://isl.ics.forth.gr/parthenos_vocabularies/Concept/32910"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtbAYXiGXtZD"/>
+      <entity2 rdf:resource="https://isl.ics.forth.gr/parthenos_vocabularies/Concept/32604"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtAYfItWHoOV"/>
+      <entity2 rdf:resource="https://isl.ics.forth.gr/parthenos_vocabularies/Concept/32937"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrt1FD59O4eTz"/>
+      <entity2 rdf:resource="https://isl.ics.forth.gr/parthenos_vocabularies/Concept/32489"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrt3S7lIydczN"/>
+      <entity2 rdf:resource="https://isl.ics.forth.gr/parthenos_vocabularies/Concept/32705"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://purl.org/dc/terms/description"/>
+      <entity2 rdf:resource="http://purl.org/dc/terms/description"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.w3.org/2004/02/skos/core#altLabel"/>
+      <entity2 rdf:resource="http://www.w3.org/2004/02/skos/core#hiddenLabel"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+</Alignment>
+</rdf:RDF>

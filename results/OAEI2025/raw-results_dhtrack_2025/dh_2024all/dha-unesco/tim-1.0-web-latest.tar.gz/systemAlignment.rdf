@@ -1,0 +1,1034 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns="http://knowledgeweb.semanticweb.org/heterogeneity/alignment"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+<Alignment>
+  <xml>yes</xml>
+  <level>0</level>
+  <type>??</type>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://vocabs.acdh.oeaw.ac.at/schema#hasLicense"/>
+      <entity2 rdf:resource="http://purl.org/dc/terms/isRequiredBy"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://vocabs.acdh.oeaw.ac.at/dhataxonomy/Concept35"/>
+      <entity2 rdf:resource="http://vocabularies.unesco.org/thesaurus/concept512"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://vocabs.acdh.oeaw.ac.at/dhataxonomy/Concept13"/>
+      <entity2 rdf:resource="http://vocabularies.unesco.org/thesaurus/concept505"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://purl.org/dc/terms/created"/>
+      <entity2 rdf:resource="http://purl.org/dc/terms/created"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://purl.org/dc/elements/1.1/title"/>
+      <entity2 rdf:resource="http://purl.org/iso25964/skos-thes#subGroup"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://vocabs.acdh.oeaw.ac.at/dhataxonomy/Concept60"/>
+      <entity2 rdf:resource="http://vocabularies.unesco.org/thesaurus/concept17162"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://vocabs.acdh.oeaw.ac.at/schema#hasIdentifier"/>
+      <entity2 rdf:resource="http://purl.org/dc/terms/description"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://vocabs.acdh.oeaw.ac.at/dhataxonomy/Concept28.01"/>
+      <entity2 rdf:resource="http://vocabularies.unesco.org/thesaurus/concept5789"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://vocabs.acdh.oeaw.ac.at/dhataxonomy/Concept17"/>
+      <entity2 rdf:resource="http://vocabularies.unesco.org/thesaurus/concept12521"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.w3.org/2004/02/skos/core#broader"/>
+      <entity2 rdf:resource="http://www.w3.org/2004/02/skos/core#broader"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://vocabs.acdh.oeaw.ac.at/dhataxonomy/Concept67"/>
+      <entity2 rdf:resource="http://vocabularies.unesco.org/thesaurus/concept4328"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://vocabs.acdh.oeaw.ac.at/dhataxonomy/Concept56.01"/>
+      <entity2 rdf:resource="http://vocabularies.unesco.org/thesaurus/concept3319"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://vocabs.acdh.oeaw.ac.at/dhataxonomy/Concept42"/>
+      <entity2 rdf:resource="http://vocabularies.unesco.org/thesaurus/concept5786"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://vocabs.acdh.oeaw.ac.at/dhataxonomy/Concept31"/>
+      <entity2 rdf:resource="http://vocabularies.unesco.org/thesaurus/concept3052"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://vocabs.acdh.oeaw.ac.at/dhataxonomy/Concept26"/>
+      <entity2 rdf:resource="http://vocabularies.unesco.org/thesaurus/concept3851"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://vocabs.acdh.oeaw.ac.at/dhataxonomy/Concept53.01"/>
+      <entity2 rdf:resource="http://vocabularies.unesco.org/thesaurus/concept11704"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://vocabs.acdh.oeaw.ac.at/dhataxonomy/Concept68"/>
+      <entity2 rdf:resource="http://vocabularies.unesco.org/thesaurus/concept5763"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://vocabs.acdh.oeaw.ac.at/dhataxonomy/Concept9"/>
+      <entity2 rdf:resource="http://vocabularies.unesco.org/thesaurus/concept3759"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://vocabs.acdh.oeaw.ac.at/schema#hasOwner"/>
+      <entity2 rdf:resource="http://purl.org/dc/terms/source"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://vocabs.acdh.oeaw.ac.at/dhataxonomy/Concept49"/>
+      <entity2 rdf:resource="http://vocabularies.unesco.org/thesaurus/concept10648"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://vocabs.acdh.oeaw.ac.at/dhataxonomy/Concept39.01"/>
+      <entity2 rdf:resource="http://vocabularies.unesco.org/thesaurus/concept3343"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://purl.org/dc/terms/license"/>
+      <entity2 rdf:resource="http://purl.org/dc/terms/license"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://vocabs.acdh.oeaw.ac.at/dhataxonomy/Concept41"/>
+      <entity2 rdf:resource="http://vocabularies.unesco.org/thesaurus/concept4954"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#type"/>
+      <entity2 rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#type"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://vocabs.acdh.oeaw.ac.at/dhataxonomy/Concept53"/>
+      <entity2 rdf:resource="http://vocabularies.unesco.org/thesaurus/concept503"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://vocabs.acdh.oeaw.ac.at/dhataxonomy/Concept65"/>
+      <entity2 rdf:resource="http://vocabularies.unesco.org/thesaurus/concept2788"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://vocabs.acdh.oeaw.ac.at/dhataxonomy/Concept67.01"/>
+      <entity2 rdf:resource="http://vocabularies.unesco.org/thesaurus/concept506"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://vocabs.acdh.oeaw.ac.at/dhataxonomy/Concept28"/>
+      <entity2 rdf:resource="http://vocabularies.unesco.org/thesaurus/concept9803"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://vocabs.acdh.oeaw.ac.at/schema#hasRightsHolder"/>
+      <entity2 rdf:resource="http://purl.org/dc/terms/rights"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://vocabs.acdh.oeaw.ac.at/dhataxonomy/Concept72"/>
+      <entity2 rdf:resource="http://vocabularies.unesco.org/thesaurus/concept2764"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://vocabs.acdh.oeaw.ac.at/dhataxonomy/Concept56"/>
+      <entity2 rdf:resource="http://vocabularies.unesco.org/thesaurus/concept2780"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://purl.org/dc/elements/1.1/subject"/>
+      <entity2 rdf:resource="http://purl.org/dc/elements/1.1/subject"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://vocabs.acdh.oeaw.ac.at/dhataxonomy/Concept59.01"/>
+      <entity2 rdf:resource="http://vocabularies.unesco.org/thesaurus/concept4764"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.w3.org/2004/02/skos/core#inScheme"/>
+      <entity2 rdf:resource="http://www.w3.org/2004/02/skos/core#inScheme"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://vocabs.acdh.oeaw.ac.at/schema#hasTitle"/>
+      <entity2 rdf:resource="http://purl.org/dc/terms/conformsTo"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://vocabs.acdh.oeaw.ac.at/dhataxonomy/Concept12"/>
+      <entity2 rdf:resource="http://vocabularies.unesco.org/thesaurus/concept1361"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://vocabs.acdh.oeaw.ac.at/dhataxonomy/Concept15"/>
+      <entity2 rdf:resource="http://vocabularies.unesco.org/thesaurus/concept3843"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://vocabs.acdh.oeaw.ac.at/dhataxonomy/Concept36"/>
+      <entity2 rdf:resource="http://vocabularies.unesco.org/thesaurus/concept3268"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://vocabs.acdh.oeaw.ac.at/dhataxonomy/Concept48.07"/>
+      <entity2 rdf:resource="http://vocabularies.unesco.org/thesaurus/concept12437"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://vocabs.acdh.oeaw.ac.at/dhataxonomy/Concept28.02"/>
+      <entity2 rdf:resource="http://vocabularies.unesco.org/thesaurus/concept1985"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://vocabs.acdh.oeaw.ac.at/schema#creator"/>
+      <entity2 rdf:resource="http://purl.org/dc/terms/title"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://vocabs.acdh.oeaw.ac.at/dhataxonomy/Concept51"/>
+      <entity2 rdf:resource="http://vocabularies.unesco.org/thesaurus/concept484"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://vocabs.acdh.oeaw.ac.at/dhataxonomy/Concept7"/>
+      <entity2 rdf:resource="http://vocabularies.unesco.org/thesaurus/concept3775"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.w3.org/2004/02/skos/core#narrower"/>
+      <entity2 rdf:resource="http://www.w3.org/2004/02/skos/core#narrower"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://purl.org/dc/elements/1.1/relation"/>
+      <entity2 rdf:resource="http://purl.org/dc/terms/replaces"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://vocabs.acdh.oeaw.ac.at/dhataxonomy/Concept21"/>
+      <entity2 rdf:resource="http://vocabularies.unesco.org/thesaurus/concept2786"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.w3.org/2000/01/rdf-schema#isDefinedBy"/>
+      <entity2 rdf:resource="http://www.w3.org/2000/01/rdf-schema#isDefinedBy"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://vocabs.acdh.oeaw.ac.at/schema#hasLicensor"/>
+      <entity2 rdf:resource="http://purl.org/dc/terms/identifier"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://vocabs.acdh.oeaw.ac.at/dhataxonomy/Concept70"/>
+      <entity2 rdf:resource="http://vocabularies.unesco.org/thesaurus/concept3340"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://vocabs.acdh.oeaw.ac.at/dhataxonomy/Concept48"/>
+      <entity2 rdf:resource="http://vocabularies.unesco.org/thesaurus/concept5242"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://vocabs.acdh.oeaw.ac.at/dhataxonomy/Concept51.01"/>
+      <entity2 rdf:resource="http://vocabularies.unesco.org/thesaurus/concept4358"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://vocabs.acdh.oeaw.ac.at/dhataxonomy/Concept25"/>
+      <entity2 rdf:resource="http://vocabularies.unesco.org/thesaurus/concept12522"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://vocabs.acdh.oeaw.ac.at/dhataxonomy/Concept57"/>
+      <entity2 rdf:resource="http://vocabularies.unesco.org/thesaurus/concept2795"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://vocabs.acdh.oeaw.ac.at/dhataxonomy/Concept48.02"/>
+      <entity2 rdf:resource="http://vocabularies.unesco.org/thesaurus/concept486"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://vocabs.acdh.oeaw.ac.at/dhataxonomy/Concept29"/>
+      <entity2 rdf:resource="http://vocabularies.unesco.org/thesaurus/concept3849"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://vocabs.acdh.oeaw.ac.at/dhataxonomy/Concept20"/>
+      <entity2 rdf:resource="http://vocabularies.unesco.org/thesaurus/concept3172"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://vocabs.acdh.oeaw.ac.at/dhataxonomy/Concept43"/>
+      <entity2 rdf:resource="http://vocabularies.unesco.org/thesaurus/concept481"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://vocabs.acdh.oeaw.ac.at/dhataxonomy/Concept39"/>
+      <entity2 rdf:resource="http://vocabularies.unesco.org/thesaurus/concept4219"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.w3.org/2004/02/skos/core#altLabel"/>
+      <entity2 rdf:resource="http://www.w3.org/2004/02/skos/core#altLabel"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://purl.org/dc/elements/1.1/format"/>
+      <entity2 rdf:resource="http://www.w3.org/2004/02/skos/core#editorialNote"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://vocabs.acdh.oeaw.ac.at/schema#hasURL"/>
+      <entity2 rdf:resource="http://purl.org/dc/terms/format"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://vocabs.acdh.oeaw.ac.at/dhataxonomy/Concept11"/>
+      <entity2 rdf:resource="http://vocabularies.unesco.org/thesaurus/concept4365"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.w3.org/2004/02/skos/core#scopeNote"/>
+      <entity2 rdf:resource="http://www.w3.org/2004/02/skos/core#scopeNote"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://purl.org/dc/elements/1.1/source"/>
+      <entity2 rdf:resource="http://purl.org/iso25964/skos-thes#superGroup"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://vocabs.acdh.oeaw.ac.at/dhataxonomy/Concept48.04"/>
+      <entity2 rdf:resource="http://vocabularies.unesco.org/thesaurus/concept3835"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://vocabs.acdh.oeaw.ac.at/dhataxonomy/Concept44"/>
+      <entity2 rdf:resource="http://vocabularies.unesco.org/thesaurus/concept3757"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.w3.org/2004/02/skos/core#definition"/>
+      <entity2 rdf:resource="http://www.w3.org/2004/02/skos/core#definition"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://vocabs.acdh.oeaw.ac.at/dhataxonomy/Concept40.01"/>
+      <entity2 rdf:resource="http://vocabularies.unesco.org/thesaurus/concept5829"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://vocabs.acdh.oeaw.ac.at/dhataxonomy/Concept39.05"/>
+      <entity2 rdf:resource="http://vocabularies.unesco.org/thesaurus/concept500"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://purl.org/dc/terms/contributor"/>
+      <entity2 rdf:resource="http://purl.org/dc/terms/subject"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://vocabs.acdh.oeaw.ac.at/dhataxonomy/Concept55"/>
+      <entity2 rdf:resource="http://vocabularies.unesco.org/thesaurus/concept455"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://vocabs.acdh.oeaw.ac.at/dhataxonomy/Concept54"/>
+      <entity2 rdf:resource="http://vocabularies.unesco.org/thesaurus/concept5769"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://vocabs.acdh.oeaw.ac.at/dhataxonomy/Concept38"/>
+      <entity2 rdf:resource="http://vocabularies.unesco.org/thesaurus/concept5758"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://vocabs.acdh.oeaw.ac.at/dhataxonomy/Concept61"/>
+      <entity2 rdf:resource="http://vocabularies.unesco.org/thesaurus/concept2488"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://vocabs.acdh.oeaw.ac.at/dhataxonomy/Concept30"/>
+      <entity2 rdf:resource="http://vocabularies.unesco.org/thesaurus/concept3312"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://vocabs.acdh.oeaw.ac.at/dhataxonomy/Concept18"/>
+      <entity2 rdf:resource="http://vocabularies.unesco.org/thesaurus/concept3939"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://vocabs.acdh.oeaw.ac.at/dhataxonomy/Concept8"/>
+      <entity2 rdf:resource="http://vocabularies.unesco.org/thesaurus/concept5249"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://vocabs.acdh.oeaw.ac.at/schema#hasCreatedEndDate"/>
+      <entity2 rdf:resource="http://purl.org/dc/elements/1.1/publisher"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://vocabs.acdh.oeaw.ac.at/dhataxonomy/Concept58"/>
+      <entity2 rdf:resource="http://vocabularies.unesco.org/thesaurus/concept3847"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.w3.org/2004/02/skos/core#hasTopConcept"/>
+      <entity2 rdf:resource="http://www.w3.org/2004/02/skos/core#hasTopConcept"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.w3.org/2004/02/skos/core#member"/>
+      <entity2 rdf:resource="http://www.w3.org/2004/02/skos/core#member"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://vocabs.acdh.oeaw.ac.at/dhataxonomy/Concept71"/>
+      <entity2 rdf:resource="http://vocabularies.unesco.org/thesaurus/concept4167"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://vocabs.acdh.oeaw.ac.at/dhataxonomy/Concept19"/>
+      <entity2 rdf:resource="http://vocabularies.unesco.org/thesaurus/concept5785"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://vocabs.acdh.oeaw.ac.at/dhataxonomy/Concept32"/>
+      <entity2 rdf:resource="http://vocabularies.unesco.org/thesaurus/concept2214"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.w3.org/2004/02/skos/core#topConceptOf"/>
+      <entity2 rdf:resource="http://www.w3.org/2004/02/skos/core#topConceptOf"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://vocabs.acdh.oeaw.ac.at/dhataxonomy/Concept24"/>
+      <entity2 rdf:resource="http://vocabularies.unesco.org/thesaurus/concept10777"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://vocabs.acdh.oeaw.ac.at/dhataxonomy/Concept52"/>
+      <entity2 rdf:resource="http://vocabularies.unesco.org/thesaurus/concept7094"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://vocabs.acdh.oeaw.ac.at/dhataxonomy/Concept40.04"/>
+      <entity2 rdf:resource="http://vocabularies.unesco.org/thesaurus/concept4888"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://vocabs.acdh.oeaw.ac.at/schema#hasRelatedDiscipline"/>
+      <entity2 rdf:resource="http://www.w3.org/2004/02/skos/core#related"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.w3.org/2000/01/rdf-schema#label"/>
+      <entity2 rdf:resource="http://www.w3.org/2000/01/rdf-schema#label"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://vocabs.acdh.oeaw.ac.at/dhataxonomy/Concept3"/>
+      <entity2 rdf:resource="http://vocabularies.unesco.org/thesaurus/concept11852"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://vocabs.acdh.oeaw.ac.at/dhataxonomy/Concept47"/>
+      <entity2 rdf:resource="http://vocabularies.unesco.org/thesaurus/concept17000"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://vocabs.acdh.oeaw.ac.at/schema#hasDescription"/>
+      <entity2 rdf:resource="http://purl.org/dc/terms/type"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://purl.org/dc/terms/publisher"/>
+      <entity2 rdf:resource="http://purl.org/dc/terms/language"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://purl.org/dc/terms/rightsHolder"/>
+      <entity2 rdf:resource="http://purl.org/dc/terms/rightsHolder"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.w3.org/2004/02/skos/core#prefLabel"/>
+      <entity2 rdf:resource="http://www.w3.org/2004/02/skos/core#prefLabel"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://vocabs.acdh.oeaw.ac.at/dhataxonomy/Concept40.03"/>
+      <entity2 rdf:resource="http://vocabularies.unesco.org/thesaurus/concept5802"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://vocabs.acdh.oeaw.ac.at/dhataxonomy/Concept39.03"/>
+      <entity2 rdf:resource="http://vocabularies.unesco.org/thesaurus/concept12200"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://vocabs.acdh.oeaw.ac.at/dhataxonomy/Concept14"/>
+      <entity2 rdf:resource="http://vocabularies.unesco.org/thesaurus/concept4516"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://vocabs.acdh.oeaw.ac.at/dhataxonomy/Concept27"/>
+      <entity2 rdf:resource="http://vocabularies.unesco.org/thesaurus/concept2748"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://vocabs.acdh.oeaw.ac.at/dhataxonomy/Concept63"/>
+      <entity2 rdf:resource="http://vocabularies.unesco.org/thesaurus/concept2768"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <entity2 rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://vocabs.acdh.oeaw.ac.at/dhataxonomy/Concept40"/>
+      <entity2 rdf:resource="http://vocabularies.unesco.org/thesaurus/concept3809"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://vocabs.acdh.oeaw.ac.at/dhataxonomy/Concept45"/>
+      <entity2 rdf:resource="http://vocabularies.unesco.org/thesaurus/concept5420"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://vocabs.acdh.oeaw.ac.at/dhataxonomy/Concept6"/>
+      <entity2 rdf:resource="http://vocabularies.unesco.org/thesaurus/concept2491"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://vocabs.acdh.oeaw.ac.at/dhataxonomy/Concept48.01"/>
+      <entity2 rdf:resource="http://vocabularies.unesco.org/thesaurus/concept11719"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://vocabs.acdh.oeaw.ac.at/dhataxonomy/Concept37"/>
+      <entity2 rdf:resource="http://vocabularies.unesco.org/thesaurus/concept3323"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://vocabs.acdh.oeaw.ac.at/dhataxonomy/Concept16"/>
+      <entity2 rdf:resource="http://vocabularies.unesco.org/thesaurus/concept6017"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://vocabs.acdh.oeaw.ac.at/dhataxonomy/Concept66.05"/>
+      <entity2 rdf:resource="http://vocabularies.unesco.org/thesaurus/concept3829"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://vocabs.acdh.oeaw.ac.at/dhataxonomy/Concept66"/>
+      <entity2 rdf:resource="http://vocabularies.unesco.org/thesaurus/concept460"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://vocabs.acdh.oeaw.ac.at/dhataxonomy/Concept40.02"/>
+      <entity2 rdf:resource="http://vocabularies.unesco.org/thesaurus/concept5804"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://vocabs.acdh.oeaw.ac.at/schema#isNewVersionOf"/>
+      <entity2 rdf:resource="http://purl.org/dc/elements/1.1/contributor"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://vocabs.acdh.oeaw.ac.at/dhataxonomy/Concept10"/>
+      <entity2 rdf:resource="http://vocabularies.unesco.org/thesaurus/concept3270"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://vocabs.acdh.oeaw.ac.at/dhataxonomy/Concept46"/>
+      <entity2 rdf:resource="http://vocabularies.unesco.org/thesaurus/concept2258"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://vocabs.acdh.oeaw.ac.at/dhataxonomy/Concept33"/>
+      <entity2 rdf:resource="http://vocabularies.unesco.org/thesaurus/concept4230"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://vocabs.acdh.oeaw.ac.at/dhataxonomy/Concept2"/>
+      <entity2 rdf:resource="http://vocabularies.unesco.org/thesaurus/concept1771"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.w3.org/2004/02/skos/core#notation"/>
+      <entity2 rdf:resource="http://www.w3.org/2004/02/skos/core#notation"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://vocabs.acdh.oeaw.ac.at/dhataxonomy/Concept59"/>
+      <entity2 rdf:resource="http://vocabularies.unesco.org/thesaurus/concept17142"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://vocabs.acdh.oeaw.ac.at/dhataxonomy/Concept22"/>
+      <entity2 rdf:resource="http://vocabularies.unesco.org/thesaurus/concept3820"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://vocabs.acdh.oeaw.ac.at/dhataxonomy/Concept62"/>
+      <entity2 rdf:resource="http://vocabularies.unesco.org/thesaurus/concept3315"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://vocabs.acdh.oeaw.ac.at/dhataxonomy/Concept39.02"/>
+      <entity2 rdf:resource="http://vocabularies.unesco.org/thesaurus/concept488"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://vocabs.acdh.oeaw.ac.at/dhataxonomy/Concept48.03"/>
+      <entity2 rdf:resource="http://vocabularies.unesco.org/thesaurus/concept5244"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://vocabs.acdh.oeaw.ac.at/dhataxonomy/Concept73"/>
+      <entity2 rdf:resource="http://vocabularies.unesco.org/thesaurus/concept10574"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://purl.org/dc/terms/modified"/>
+      <entity2 rdf:resource="http://purl.org/dc/terms/modified"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://vocabs.acdh.oeaw.ac.at/dhataxonomy/Concept34"/>
+      <entity2 rdf:resource="http://vocabularies.unesco.org/thesaurus/concept11605"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://vocabs.acdh.oeaw.ac.at/dhataxonomy/Concept23"/>
+      <entity2 rdf:resource="http://vocabularies.unesco.org/thesaurus/concept6066"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://purl.org/dc/elements/1.1/creator"/>
+      <entity2 rdf:resource="http://purl.org/dc/elements/1.1/creator"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://vocabs.acdh.oeaw.ac.at/dhataxonomy/Concept74"/>
+      <entity2 rdf:resource="http://vocabularies.unesco.org/thesaurus/concept4831"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+</Alignment>
+</rdf:RDF>
