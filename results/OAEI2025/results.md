@@ -8,14 +8,11 @@ We used the dataset v1.0.0 (https://doi.org/10.5281/zenodo.12731588) and precisi
 - VM with 8 x 2.4 GHz cores, 16GB RAM
 
 ## Steps to Reproduce the Results
-- Download the evaluation client [evaluation client](https://nightly.link/dwslab/melt/workflows/java_client_upload/master/evaluation-client.zip) as explained in the [documentation](https://dwslab.github.io/melt/matcher-evaluation/client).
-- Download the 2025 (or any other MELT compatible) matchers and put them in the same folder.
+- Download the [evaluation client](https://nightly.link/dwslab/melt/workflows/java_client_upload/master/evaluation-client.zip) as explained in the [documentation](https://dwslab.github.io/melt/matcher-evaluation/client).
+- Download the 2025 (or any MELT‑compatible) matchers and put them in the same folder.
+
+
 - Run the command
-
-java -jar matching-eval-client-latest.jar --systems ALIN-Seals.zip logmap-melt-oaei-2021-web-latest.tar.gz logmap-bio-melt-oaei-2021-web-latest.tar.gz logmap-kg-melt-oaei-2021-web-latest.tar.gz logmap-lite-melt-oaei-2021-web-latest.tar.gz lsmatch-2.0-web-latest.tar.gz lsmatch-multilingual-2.0-web-latest.tar.gz matcha.zip MDMapperSeals.zip tim-1.0-web-latest.tar.gz  --track http://oaei.webdatacommons.org/tdrs/ dh 2024all --results oaei2025_all_oaeidh_(date +"%Y-%m-%d_%H-%M-%S") > oaei2025_all_oaeidh_(date +"%Y-%m-%d_%H-%M-%S").log
-
-
-
 ```bash
 java -jar matching-eval-client-latest.jar --systems ALIN-Seals.zip logmap-melt-oaei-2021-web-latest.tar.gz logmap-bio-melt-oaei-2021-web-latest.tar.gz logmap-kg-melt-oaei-2021-web-latest.tar.gz logmap-lite-melt-oaei-2021-web-latest.tar.gz lsmatch-2.0-web-latest.tar.gz lsmatch-multilingual-2.0-web-latest.tar.gz matcha.zip MDMapperSeals.zip tim-1.0-web-latest.tar.gz --track http://oaei.webdatacommons.org/tdrs/ dh 2024all --results oaei2025_dh
 ```
@@ -88,9 +85,9 @@ The raw results can be found in the `raw-results_dhtrack_2025` folder in this re
 ## Discussion
 When we examine the F1-scores averaged over all matchers, they range from 0.27 to 0.61. This indicates that while the matchers perform fairly well on some test cases, there is considerable room for improvement on others. 
 
-When comparing the matching systems, LogMap KG has the best averaged F1-score of 0.61, similar to last year's OAEI. The two systems Agent-OM and TIM which took part for the first time could not outperform LogMap KG. 
+When comparing systems, LogMap KG has the best average F1‑score of 0.61, similar to last year’s OAEI. The two newcomers, Agent‑OM and TIM, did not outperform LogMap KG.
 
-Looking at execution times, the all are in the same range, between 13s and 18s to run the full track. The only exception is LogMap lite with over 20min but still results in an empty aligment. Agent-OM could not provide running times. 
+Looking at execution times, they are all in a similar range (13–18s) for the full track. The only exception is LogMap Lite with over 20 minutes and still an empty alignment. Agent‑OM did not provide runtimes.
 
 In general, only half of the evaluated matchers, and only two matchers that are not based on LogMap, can find alignments. Most of the systems result in errors, which aligns with our findings in our OM-paper [1] where only five out of 17 systems could find alignments.  This makes it evident that still many matching systems cannot handle SKOS. On the other hand, it is notable that the two new systems participating for the first time can handle SKOS. 
 
