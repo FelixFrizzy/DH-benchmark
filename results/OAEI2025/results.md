@@ -30,7 +30,7 @@ The raw results can be found in the `raw-results_dhtrack_2025` folder in this re
     - LogMap Bio
     - LogMap KG
     - Logmap
-    - Tim
+    - TIM
 - Running without code errors / exceptions, alignments empty
     - LSMatch
     - LSMatch-Multilingual
@@ -43,7 +43,7 @@ The raw results can be found in the `raw-results_dhtrack_2025` folder in this re
 ## Precision, Recall, F1-Score
 | Test Case                   |Precision|          |                |               |           |Recall    |            |           |          |F1-Score  |            |           |          |
 | --------------------------- |-------- | -------- | -------------- | ------------- | --------- | -------- | ---------- | --------- | -------- | -------- | ---------- | --------- | -------- |
-|                             |Agent-OM | LogMap   | LogMap Bio     | LogMap KG     | Tim       | Agent-OM | LogMap   | LogMap Bio     | LogMap KG     | Tim       |Agent-OM | LogMap   | LogMap Bio     | LogMap KG     | Tim       
+|                             |Agent-OM | LogMap   | LogMap Bio     | LogMap KG     | TIM       | Agent-OM | LogMap   | LogMap Bio     | LogMap KG     | TIM       |Agent-OM | LogMap   | LogMap Bio     | LogMap KG     | TIM       
 | arch1_defc-pactols          | **1.00**    | 0.33     | 0.20         | 0.90         | 0.13         | 0.20         | **1.00**         | 0.20         | 0.90         | 0.60         | 0.33         | 0.50         | 0.20         | **0.90**         | 0.21
 | arch2_idai-pactols          | **1.00**    | 0.35     | 0.40         | 0.40         | 0.04         | 0.12         | **1.00**         | 0.71         | 0.71         | 0.12         | 0.21         | **0.52**         | 0.51         | 0.51         | 0.06
 | arch3_ironagedanube-pactols | **1.00**    | 0.31     | 0.40         | 0.40         | 0.04         | 0.20         | **0.80**         | **0.80**         | **0.80**         | 0.40         | 0.33         | 0.44         | **0.53**         | **0.53**         | 0.08
@@ -83,12 +83,12 @@ The raw results can be found in the `raw-results_dhtrack_2025` folder in this re
 | LogMap lite          | 00:24:52                 |
 | LSMatch              | 00:00:17                 |
 | LSMatch Multilingual | 00:00:18                 |
-| Tim                  | 00:00:07                 |
+| TIM                  | 00:00:07                 |
 
 ## Discussion
 When we examine the F1-scores averaged over all matchers, they range from 0.27 to 0.61. This indicates that while the matchers perform fairly well on some test cases, there is considerable room for improvement on others. 
 
-When comparing the matching systems, LogMap KG has the best averaged F1-score of 0.61, similar to last year's OAEI. The two systems Agent-OM and Tim which took part for the first time could not outperform LogMap KG. 
+When comparing the matching systems, LogMap KG has the best averaged F1-score of 0.61, similar to last year's OAEI. The two systems Agent-OM and TIM which took part for the first time could not outperform LogMap KG. 
 
 Looking at execution times, the all are in the same range, between 13s and 18s to run the full track. The only exception is LogMap lite with over 20min but still results in an empty aligment. Agent-OM could not provide running times. 
 
