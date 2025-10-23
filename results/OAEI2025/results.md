@@ -23,50 +23,52 @@ The raw results can be found in the `raw-results_dhtrack_2025` folder in this re
 
 ## Overview over the matching systems
 - Running successfully
-    - Agent-OM
+    - Agent-OM (see note below)
     - LogMap Bio
     - LogMap KG
     - Logmap
+    - Matcha
     - TIM
 - Running without code errors / exceptions, alignments empty
     - LSMatch
     - LSMatch-Multilingual
 - Running with exceptions / error, no alignments received
     - ALIN
-    - Matcha
     - MDMapper
+
+Note on Agent-OM: The results of Agent-OM were provided by the system authors and could not be verified by executing the system using MELT.
 
 
 ## Precision, Recall, F1-Score
-| Test Case                   |Precision|          |                |               |           |Recall    |            |           |          |F1-Score  |            |           |          |
-| --------------------------- |-------- | -------- | -------------- | ------------- | --------- | -------- | ---------- | --------- | -------- | -------- | ---------- | --------- | -------- |
-|                             |Agent-OM | LogMap   | LogMap Bio     | LogMap KG     | TIM       | Agent-OM | LogMap   | LogMap Bio     | LogMap KG     | TIM       |Agent-OM | LogMap   | LogMap Bio     | LogMap KG     | TIM       
-| arch1_defc-pactols          | **1.00**    | 0.33     | 0.20         | 0.90         | 0.13         | 0.20         | **1.00**         | 0.20         | 0.90         | 0.60         | 0.33         | 0.50         | 0.20         | **0.90**         | 0.21
-| arch2_idai-pactols          | **1.00**    | 0.35     | 0.40         | 0.40         | 0.04         | 0.12         | **1.00**         | 0.71         | 0.71         | 0.12         | 0.21         | **0.52**         | 0.51         | 0.51         | 0.06
-| arch3_ironagedanube-pactols | **1.00**    | 0.31     | 0.40         | 0.40         | 0.04         | 0.20         | **0.80**         | **0.80**         | **0.80**         | 0.40         | 0.33         | 0.44         | **0.53**         | **0.53**         | 0.08
-| arch4_pactols-parthenos     | **1.00**    | 0.42     | 0.71         | 0.71         | 0.18         | 0.50         | **0.92**         | 0.83         | 0.83         | 0.67         | 0.67         | 0.58         | **0.77**         | **0.77**         | 0.29
-| cult1_idai-parthenos        | 0.50    | 0.70     | **1.00**         | **1.00**         | 0.00         | **0.38**         | 0.27         | 0.17         | 0.17         | 0.00         | **0.43**         | 0.39         | 0.30         | 0.30         | 0.00
-| cult2_oeai-parthenos        | 0.91    | 0.51     | **1.00**         | **1.00**         | 0.00         | 0.43         | **0.89**         | 0.68         | 0.68         | 0.00         | 0.58         | 0.65         | **0.81**         | **0.81**         | 0.00
-| dhcs1_dha-unesco            | **0.67**    | 0.25     | 0.50         | 0.50         | 0.02         | 0.40         | **0.90**         | 0.40         | 0.40         | 0.20         | **0.50**         | 0.39         | 0.44         | 0.44         | 0.04
-| dhcs2_tadirah-unesco        | **1.00**    | 0.22     | 0.00         | 0.53         | 0.00         | 0.27         | **0.80**         | 0.00         | 0.67         | 0.00         | 0.42         | 0.35         | 0.00         | **0.59**         | 0.00
-| Average over all tracks     | **0.88**    | 0.39     | 0.53         | 0.68         | 0.05         | 0.31         | **0.82**         | 0.47         | 0.64         | 0.25         | 0.43         | 0.48         | 0.45         | **0.61**         | 0.09
+| Test Case                   |Precision    |          |              |              |              |              |Recall        |                  |              |              |              |              | F1-Score    |              |              |                  |              |       | 
+| --------------------------- |--------     | -------- | -------------| -------------| ---------    | ---------    | --------     | ---------------- | ---------    | --------     | ---------    | ------------ | ----------  | ---------    | --------     | ---------------  | ---------    | ----- |
+|                             |Agent-OM     | LogMap   | LogMap Bio   | LogMap KG    | Matcha       | TIM          | Agent-OM     | LogMap           | LogMap Bio   | LogMap KG    | Matcha       | TIM          |Agent-OM     | LogMap       | LogMap Bio   | LogMap KG        | Matcha       | TIM   |   
+| arch1_defc-pactols          | **1.00**    | 0.33     | 0.20         | 0.90         | **1.00**     | 0.13         | 0.20         | **1.00**         | 0.20         | 0.90         | 0.90         | 0.60         | 0.33        | 0.50         | 0.20         | 0.90             | **0.95**     | 0.21  |
+| arch2_idai-pactols          | **1.00**    | 0.35     | 0.40         | 0.40         | 0.45         | 0.04         | 0.12         | **1.00**         | 0.71         | 0.71         | **1.00**     | 0.12         | 0.21        | 0.52         | 0.51         | 0.51             | **0.63**     | 0.06  |
+| arch3_ironagedanube-pactols | **1.00**    | 0.31     | 0.40         | 0.40         | 0.31         | 0.04         | 0.20         | **0.80**         | **0.80**     | **0.80**     | 0.24         | 0.40         | 0.33        | 0.44         | **0.53**     | **0.53**         | 0.27         | 0.08  |
+| arch4_pactols-parthenos     | **1.00**    | 0.42     | 0.71         | 0.71         | 0.80         | 0.18         | 0.50         | **0.92**         | 0.83         | 0.83         | 0.23         | 0.67         | 0.67        | 0.58         | **0.77**     | **0.77**         | 0.36         | 0.29  |
+| cult1_idai-parthenos        | 0.50        | 0.70     | **1.00**     | **1.00**     | 0.67         | 0.00         | 0.38         | 0.27             | 0.17         | 0.17         | **0.80**     | 0.00         | 0.43        | 0.39         | 0.30         | 0.30             | **0.73**     | 0.00  |
+| cult2_oeai-parthenos        | 0.91        | 0.51     | **1.00**     | **1.00**     | 0.90         | 0.00         | 0.43         | **0.89**         | 0.68         | 0.68         | 0.74         | 0.00         | 0.58        | 0.65         | **0.81**     | **0.81**         | **0.81**     | 0.00  |
+| dhcs1_dha-unesco            | 0.67        | 0.25     | 0.50         | 0.50         | **0.83**     | 0.02         | 0.40         | **0.90**         | 0.40         | 0.40         | 0.83         | 0.20         | 0.50        | 0.39         | 0.44         | 0.44             | **0.83**     | 0.04  |
+| dhcs2_tadirah-unesco        | **1.00**    | 0.22     | 0.00         | 0.53         | 0.36         | 0.00         | 0.27         | 0.80             | 0.00         | 0.67         | **0.93**     | 0.00         | 0.42        | 0.35         | 0.00         | **0.59**         | 0.52         | 0.00  |
+| Average over all tracks     | **0.88**    | 0.39     | 0.53         | 0.68         | 0.67         | 0.05         | 0.31         | **0.82**         | 0.47         | 0.65         | 0.71         | 0.25         | 0.43        | 0.48         | 0.45         | 0.61             | **0.64**     | 0.09  |
 
-
-  
 
 ## Average (mean) over matchers
 
 | Test Case                   |Precision  | Recall    | F1-Score |
 | --------------------------- | --------  | --------- | -------- |
-| arch1_defc-pactols          | 0.51      | 0.58      | 0.43     |
-| arch2_idai-pactols          | 0.44      | 0.53      | 0.36     |
-| arch3_ironagedanube-pactols | 0.43      | 0.60      | 0.38     |
-| arch4_pactols-parthenos     | 0.61      | 0.75      | 0.61     |
-| cult1_idai-parthenos        | 0.64      | 0.20      | 0.28     |
-| cult2_oeai-parthenos        | 0.68      | 0.54      | 0.57     |
-| dhcs1_dha-unesco            | 0.39      | 0.46      | 0.36     |
-| dhcs2_tadirah-unesco        | 0.35      | 0.35      | 0.27     |
-| Average over all tracks     | 0.51      | 0.50      | 0.41     |
+| arch1_defc-pactols          | 0.59      | 0.63      | 0.52     |
+| arch2_idai-pactols          | 0.44      | 0.61      | 0.41     |
+| arch3_ironagedanube-pactols | 0.41      | 0.54      | 0.36     |
+| arch4_pactols-parthenos     | 0.64      | 0.66      | 0.57     |
+| cult1_idai-parthenos        | 0.65      | 0.30      | 0.36     |
+| cult2_oeai-parthenos        | 0.72      | 0.57      | 0.61     |
+| dhcs1_dha-unesco            | 0.46      | 0.52      | 0.44     |
+| dhcs2_tadirah-unesco        | 0.35      | 0.45      | 0.31     |
+| Average over all tracks     | 0.48      | 0.48      | 0.40     |
+
+
 
 
 
@@ -80,16 +82,17 @@ The raw results can be found in the `raw-results_dhtrack_2025` folder in this re
 | LogMap lite          | 00:24:52                 |
 | LSMatch              | 00:00:17                 |
 | LSMatch Multilingual | 00:00:18                 |
+| Matcha               | 00:05:25                 |
 | TIM                  | 00:00:07                 |
 
 ## Discussion
-When we examine the F1-scores averaged over all matchers, they range from 0.27 to 0.61. This indicates that while the matchers perform fairly well on some test cases, there is considerable room for improvement on others. 
+When we examine the F1-scores averaged over all matchers, they range from 0.31 to 0.64. This indicates that while the matchers perform fairly well on some test cases, there is considerable room for improvement on others. 
 
-When comparing systems, LogMap KG has the best average F1‑score of 0.61, similar to last year’s OAEI. The two newcomers, Agent‑OM and TIM, did not outperform LogMap KG.
+When comparing systems, Matcha has the best average F1‑score of 0.64, improving by 0.1 compared to last year's performance. The two newcomers, Agent‑OM and TIM, did not outperform Matcha.
 
-Looking at execution times, they are all in a similar range (13–18s) for the full track. The only exception is LogMap Lite with over 20 minutes and still an empty alignment. Agent‑OM did not provide runtimes.
+Looking at execution times, most are in similar range (13–18s) for the full track. Matcha needs about 20 times longer. When trading off results and speed, LogMap KG is the best option. LogMap Lite runs over 20 minutes and still an empty alignment. Agent‑OM did not provide runtimes.
 
-In general, only half of the evaluated matchers, and only two matchers that are not based on LogMap, can find alignments. Most of the systems result in errors, which aligns with our findings in our OM-paper [1] where only five out of 17 systems could find alignments.  This makes it evident that still many matching systems cannot handle SKOS. On the other hand, it is notable that the two new systems participating for the first time can handle SKOS. 
+In general, the number of matchers that are able to find alignments rose by two comapred to last year. Several other systems result in errors, which aligns with our findings in our OM-paper [1] where only five out of 17 systems could find alignments.  This makes it evident that still many matching systems cannot handle SKOS. On the other hand, it is notable that the two new systems participating for the first time can handle SKOS. 
 
 # References
 [1] F. Kraus, N. Blumenröhr, G. Götzelmann, T. Tonne, A. Streit, A Gold Standard Benchmark Dataset for Digital Humanities, in: OM-2024: The 19th International Workshop on Ontology Matching collocated with the 23rd International Semantic Web Conference (ISWC 2024), November 11th, Baltimore, USA.
