@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns="http://knowledgeweb.semanticweb.org/heterogeneity/alignment"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+<Alignment>
+  <xml>yes</xml>
+  <level>0</level>
+  <type>??</type>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://thesauri.dainst.org/_3b4ba2e6"/>
+      <entity2 rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtXGgQa70ZVU"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.8095999999999999</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://thesauri.dainst.org/_fd86e2ca"/>
+      <entity2 rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtNU9yWjKe6U"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9049723757960069</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://thesauri.dainst.org/_2f0a0fae"/>
+      <entity2 rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtQY3u48DUrQ"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.8197199999999999</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://thesauri.dainst.org/_d67080ff"/>
+      <entity2 rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtKei7jxhn32"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.8797650808336739</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://thesauri.dainst.org/_7331ad90"/>
+      <entity2 rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtSp0Bn88zX1"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.8769156204821574</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://thesauri.dainst.org/_e0531417"/>
+      <entity2 rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtms2OAv82PY"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.8750789282701377</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://thesauri.dainst.org/_87a30753"/>
+      <entity2 rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtxKnfzXYMxK"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.8007999999999998</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://thesauri.dainst.org/_d3b9f438"/>
+      <entity2 rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtKZYwYOkWlK"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.8183999999999998</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://thesauri.dainst.org/_f09b41b4"/>
+      <entity2 rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrt0Krn6QJlhU"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.8741999999999999</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://thesauri.dainst.org/_79da6a36"/>
+      <entity2 rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrt5MQsnfNDTD"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.8007999999999998</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://thesauri.dainst.org/_b02158bd"/>
+      <entity2 rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtJUwAaZ7Nz9"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7831999999999998</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://thesauri.dainst.org/_7020590d"/>
+      <entity2 rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrt9PJh9aTXv4"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.8489413412366175</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://thesauri.dainst.org/_4688b7a6"/>
+      <entity2 rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtF9P4mbuyGk"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.8009999999999998</measure>
+    </Cell>
+  </map>
+</Alignment>
+</rdf:RDF>

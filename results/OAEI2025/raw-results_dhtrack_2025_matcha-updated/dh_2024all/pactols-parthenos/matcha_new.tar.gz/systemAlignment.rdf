@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns="http://knowledgeweb.semanticweb.org/heterogeneity/alignment"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+<Alignment>
+  <xml>yes</xml>
+  <level>0</level>
+  <type>??</type>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtKei7jxhn32"/>
+      <entity2 rdf:resource="https://isl.ics.forth.gr/parthenos_vocabularies/Concept/32207"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.8189279999999999</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtkeLpJpVN4t"/>
+      <entity2 rdf:resource="https://isl.ics.forth.gr/parthenos_vocabularies/Concept/32490"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.8271999999999998</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://ark.frantiq.fr/ark:/26678/crtdVpqD9Y6ym"/>
+      <entity2 rdf:resource="https://isl.ics.forth.gr/parthenos_vocabularies/Concept/32318"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.8741999999999999</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrts62Z2hl4ux"/>
+      <entity2 rdf:resource="https://isl.ics.forth.gr/parthenos_vocabularies/Concept/32910"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.8282339999999998</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtxKnfzXYMxK"/>
+      <entity2 rdf:resource="https://isl.ics.forth.gr/parthenos_vocabularies/Concept/32324"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.8271999999999998</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtVhTRix41ic"/>
+      <entity2 rdf:resource="https://isl.ics.forth.gr/parthenos_vocabularies/Concept/32286"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.8366</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtNU9yWjKe6U"/>
+      <entity2 rdf:resource="https://isl.ics.forth.gr/parthenos_vocabularies/Concept/32636"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.8189279999999999</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtAqKgmvERHQ"/>
+      <entity2 rdf:resource="https://isl.ics.forth.gr/parthenos_vocabularies/Concept/32641"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.8561519999999999</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtx4sFxmENjb"/>
+      <entity2 rdf:resource="https://isl.ics.forth.gr/parthenos_vocabularies/Concept/32867"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.8741999999999999</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtHIjtOg1P75"/>
+      <entity2 rdf:resource="https://isl.ics.forth.gr/parthenos_vocabularies/Concept/32228"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.8271999999999999</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtF9P4mbuyGk"/>
+      <entity2 rdf:resource="https://isl.ics.forth.gr/parthenos_vocabularies/Concept/32655"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.8365999999999999</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrt9PJh9aTXv4"/>
+      <entity2 rdf:resource="https://isl.ics.forth.gr/parthenos_vocabularies/Concept/32349"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.8271999999999998</measure>
+    </Cell>
+  </map>
+</Alignment>
+</rdf:RDF>
