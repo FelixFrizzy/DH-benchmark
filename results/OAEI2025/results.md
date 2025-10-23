@@ -92,7 +92,7 @@ When comparing systems, Matcha has the best average F1‑score of 0.64, improvin
 
 Looking at execution times, most are in similar range (13–18s) for the full track. Matcha needs about 20 times longer. When trading off results and speed, LogMap KG is the best option. LogMap Lite runs over 20 minutes and still an empty alignment. Agent‑OM did not provide runtimes.
 
-In general, the number of matchers that are able to find alignments rose by two comapred to last year. Several other systems result in errors, which aligns with our findings in our OM-paper [1] where only five out of 17 systems could find alignments.  This makes it evident that still many matching systems cannot handle SKOS. On the other hand, it is notable that the two new systems participating for the first time can handle SKOS. 
+In general, the number of matchers that are able to find alignments rose by two compared to last year. Several other systems result in errors, which aligns with our findings in our OM-paper [1] where only five out of 17 systems could find alignments.  This makes it evident that still many matching systems cannot handle SKOS. On the other hand, it is notable that the two new systems participating for the first time can handle SKOS. 
 
 # References
 [1] F. Kraus, N. Blumenröhr, G. Götzelmann, T. Tonne, A. Streit, A Gold Standard Benchmark Dataset for Digital Humanities, in: OM-2024: The 19th International Workshop on Ontology Matching collocated with the 23rd International Semantic Web Conference (ISWC 2024), November 11th, Baltimore, USA.
