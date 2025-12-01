@@ -32,6 +32,7 @@ The raw results can be found in the `raw-results_dhtrack_2025` folder in this re
 - Running without code errors / exceptions, alignments empty
     - LSMatch
     - LSMatch-Multilingual
+    - LogMap lite
 - Running with exceptions / error, no alignments received
     - ALIN
     - MDMapper
