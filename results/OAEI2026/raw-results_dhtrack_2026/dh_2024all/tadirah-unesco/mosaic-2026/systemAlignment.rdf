@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+         xmlns:align="http://knowledgeweb.semanticweb.org/heterogeneity/alignment#">
+<align:Alignment>
+  <align:xml>yes</align:xml>
+  <align:level>0</align:level>
+  <align:type>**</align:type>
+  <align:onto1>source</align:onto1>
+  <align:onto2>target</align:onto2>
+  <align:map>
+    <align:Cell rdf:about="#cell0">
+      <align:entity1 rdf:resource="https://vocabs.dariah.eu/tadirah/encoding"/>
+      <align:entity2 rdf:resource="http://vocabularies.unesco.org/thesaurus/concept5530"/>
+      <align:relation>=</align:relation>
+      <align:measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0000</align:measure>
+    </align:Cell>
+  </align:map>
+  <align:map>
+    <align:Cell rdf:about="#cell1">
+      <align:entity1 rdf:resource="https://vocabs.dariah.eu/tadirah/writing"/>
+      <align:entity2 rdf:resource="http://vocabularies.unesco.org/thesaurus/concept5829"/>
+      <align:relation>=</align:relation>
+      <align:measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0000</align:measure>
+    </align:Cell>
+  </align:map>
+  <align:map>
+    <align:Cell rdf:about="#cell2">
+      <align:entity1 rdf:resource="https://vocabs.dariah.eu/tadirah/editing"/>
+      <align:entity2 rdf:resource="http://vocabularies.unesco.org/thesaurus/concept4200"/>
+      <align:relation>=</align:relation>
+      <align:measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0000</align:measure>
+    </align:Cell>
+  </align:map>
+  <align:map>
+    <align:Cell rdf:about="#cell3">
+      <align:entity1 rdf:resource="https://vocabs.dariah.eu/tadirah/webDevelopment"/>
+      <align:entity2 rdf:resource="http://vocabularies.unesco.org/thesaurus/concept17140"/>
+      <align:relation>=</align:relation>
+      <align:measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.7864</align:measure>
+    </align:Cell>
+  </align:map>
+  <align:map>
+    <align:Cell rdf:about="#cell4">
+      <align:entity1 rdf:resource="https://vocabs.dariah.eu/tadirah/audioRecording"/>
+      <align:entity2 rdf:resource="http://vocabularies.unesco.org/thesaurus/concept9812"/>
+      <align:relation>=</align:relation>
+      <align:measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8095</align:measure>
+    </align:Cell>
+  </align:map>
+  <align:map>
+    <align:Cell rdf:about="#cell5">
+      <align:entity1 rdf:resource="https://vocabs.dariah.eu/tadirah/cataloging"/>
+      <align:entity2 rdf:resource="http://vocabularies.unesco.org/thesaurus/concept3799"/>
+      <align:relation>=</align:relation>
+      <align:measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8642</align:measure>
+    </align:Cell>
+  </align:map>
+  <align:map>
+    <align:Cell rdf:about="#cell6">
+      <align:entity1 rdf:resource="https://vocabs.dariah.eu/tadirah/informationRetrieval"/>
+      <align:entity2 rdf:resource="http://vocabularies.unesco.org/thesaurus/concept514"/>
+      <align:relation>=</align:relation>
+      <align:measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0000</align:measure>
+    </align:Cell>
+  </align:map>
+  <align:map>
+    <align:Cell rdf:about="#cell7">
+      <align:entity1 rdf:resource="https://vocabs.dariah.eu/tadirah/videoConference"/>
+      <align:entity2 rdf:resource="http://vocabularies.unesco.org/thesaurus/concept6218"/>
+      <align:relation>=</align:relation>
+      <align:measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.7821</align:measure>
+    </align:Cell>
+  </align:map>
+  <align:map>
+    <align:Cell rdf:about="#cell8">
+      <align:entity1 rdf:resource="https://vocabs.dariah.eu/tadirah/recording"/>
+      <align:entity2 rdf:resource="http://vocabularies.unesco.org/thesaurus/concept505"/>
+      <align:relation>=</align:relation>
+      <align:measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.9555</align:measure>
+    </align:Cell>
+  </align:map>
+  <align:map>
+    <align:Cell rdf:about="#cell9">
+      <align:entity1 rdf:resource="https://vocabs.dariah.eu/tadirah/archiving"/>
+      <align:entity2 rdf:resource="http://vocabularies.unesco.org/thesaurus/concept2745"/>
+      <align:relation>=</align:relation>
+      <align:measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.7995</align:measure>
+    </align:Cell>
+  </align:map>
+  <align:map>
+    <align:Cell rdf:about="#cell10">
+      <align:entity1 rdf:resource="https://vocabs.dariah.eu/tadirah/patternRecognition"/>
+      <align:entity2 rdf:resource="http://vocabularies.unesco.org/thesaurus/concept3054"/>
+      <align:relation>=</align:relation>
+      <align:measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0000</align:measure>
+    </align:Cell>
+  </align:map>
+  <align:map>
+    <align:Cell rdf:about="#cell11">
+      <align:entity1 rdf:resource="https://vocabs.dariah.eu/tadirah/searching"/>
+      <align:entity2 rdf:resource="http://vocabularies.unesco.org/thesaurus/concept4479"/>
+      <align:relation>=</align:relation>
+      <align:measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8063</align:measure>
+    </align:Cell>
+  </align:map>
+  <align:map>
+    <align:Cell rdf:about="#cell12">
+      <align:entity1 rdf:resource="https://vocabs.dariah.eu/tadirah/publishing"/>
+      <align:entity2 rdf:resource="http://vocabularies.unesco.org/thesaurus/concept3810"/>
+      <align:relation>=</align:relation>
+      <align:measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0000</align:measure>
+    </align:Cell>
+  </align:map>
+</align:Alignment>
+</rdf:RDF>

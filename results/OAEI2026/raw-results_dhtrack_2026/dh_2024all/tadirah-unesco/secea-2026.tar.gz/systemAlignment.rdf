@@ -1,0 +1,714 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns="http://knowledgeweb.semanticweb.org/heterogeneity/alignment#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+<Alignment>
+  <xml>yes</xml>
+  <level>0</level>
+  <type>11</type>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <entity2 rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.w3.org/2000/01/rdf-schema#label"/>
+      <entity2 rdf:resource="http://www.w3.org/2000/01/rdf-schema#label"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.w3.org/2000/01/rdf-schema#isDefinedBy"/>
+      <entity2 rdf:resource="http://www.w3.org/2000/01/rdf-schema#isDefinedBy"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.w3.org/2004/02/skos/core"/>
+      <entity2 rdf:resource="http://www.w3.org/2004/02/skos/core"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.w3.org/2004/02/skos/core#definition"/>
+      <entity2 rdf:resource="http://www.w3.org/2004/02/skos/core#definition"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#type"/>
+      <entity2 rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#type"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+      <entity2 rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.w3.org/2004/02/skos/core#broader"/>
+      <entity2 rdf:resource="http://www.w3.org/2004/02/skos/core#broader"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://vocabs.dariah.eu/tadirah/storing"/>
+      <entity2 rdf:resource="http://vocabularies.unesco.org/thesaurus/concept6072"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.w3.org/2004/02/skos/core#closeMatch"/>
+      <entity2 rdf:resource="http://www.w3.org/2004/02/skos/core#related"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.w3.org/2004/02/skos/core#inScheme"/>
+      <entity2 rdf:resource="http://www.w3.org/2004/02/skos/core#inScheme"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://vocabs.dariah.eu/tadirah/"/>
+      <entity2 rdf:resource="http://vocabularies.unesco.org/thesaurus"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.w3.org/2004/02/skos/core#narrower"/>
+      <entity2 rdf:resource="http://www.w3.org/2004/02/skos/core#narrower"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://vocabs.dariah.eu/tadirah/managing"/>
+      <entity2 rdf:resource="http://vocabularies.unesco.org/thesaurus/concept5761"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://vocabs.dariah.eu/tadirah/sharing"/>
+      <entity2 rdf:resource="http://vocabularies.unesco.org/thesaurus/concept17094"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.w3.org/2004/02/skos/core#prefLabel"/>
+      <entity2 rdf:resource="http://www.w3.org/2004/02/skos/core#prefLabel"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://vocabs.dariah.eu/tadirah/communicating"/>
+      <entity2 rdf:resource="http://vocabularies.unesco.org/thesaurus/concept460"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://vocabs.dariah.eu/tadirah/disseminating"/>
+      <entity2 rdf:resource="http://vocabularies.unesco.org/thesaurus/concept464"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://vocabs.dariah.eu/tadirah/textMessaging"/>
+      <entity2 rdf:resource="http://vocabularies.unesco.org/thesaurus/concept6661"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://vocabs.dariah.eu/tadirah/videoConference"/>
+      <entity2 rdf:resource="http://vocabularies.unesco.org/thesaurus/concept6086"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://vocabs.dariah.eu/tadirah/recording"/>
+      <entity2 rdf:resource="http://vocabularies.unesco.org/thesaurus/concept505"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://vocabs.dariah.eu/tadirah/capturing"/>
+      <entity2 rdf:resource="http://vocabularies.unesco.org/thesaurus/concept11704"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://tadirah.dariah.eu/vocab/index.php?tema=13&amp;/recording"/>
+      <entity2 rdf:resource="http://vocabularies.unesco.org/thesaurus/concept5744"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://vocabs.dariah.eu/tadirah/creating"/>
+      <entity2 rdf:resource="http://vocabularies.unesco.org/thesaurus/concept1542"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://vocabs.dariah.eu/tadirah/transcribing"/>
+      <entity2 rdf:resource="http://vocabularies.unesco.org/thesaurus/concept3897"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://vocabs.dariah.eu/tadirah/dataRecognition"/>
+      <entity2 rdf:resource="http://vocabularies.unesco.org/thesaurus/concept522"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://vocabs.dariah.eu/tadirah/extracting"/>
+      <entity2 rdf:resource="http://vocabularies.unesco.org/thesaurus/concept4764"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://vocabs.dariah.eu/tadirah/imaging"/>
+      <entity2 rdf:resource="http://vocabularies.unesco.org/thesaurus/concept3761"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.w3.org/2004/02/skos/core#topConceptOf"/>
+      <entity2 rdf:resource="http://www.w3.org/2004/02/skos/core#topConceptOf"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://vocabs.dariah.eu/tadirah/interpreting"/>
+      <entity2 rdf:resource="http://vocabularies.unesco.org/thesaurus/concept506"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://vocabs.dariah.eu/tadirah/encoding"/>
+      <entity2 rdf:resource="http://vocabularies.unesco.org/thesaurus/concept5530"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://vocabs.dariah.eu/tadirah/opticalCharacterRecognition"/>
+      <entity2 rdf:resource="http://vocabularies.unesco.org/thesaurus/concept4954"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://vocabs.dariah.eu/tadirah/opticalMusicRecognition"/>
+      <entity2 rdf:resource="http://vocabularies.unesco.org/thesaurus/concept6105"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://vocabs.dariah.eu/tadirah/knowledgeExtraction"/>
+      <entity2 rdf:resource="http://vocabularies.unesco.org/thesaurus/concept8079"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://vocabs.dariah.eu/tadirah/programming"/>
+      <entity2 rdf:resource="http://vocabularies.unesco.org/thesaurus/concept6007"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://vocabs.dariah.eu/tadirah/graphicsProgramming"/>
+      <entity2 rdf:resource="http://vocabularies.unesco.org/thesaurus/concept521"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://vocabs.dariah.eu/tadirah/pseudoCoding"/>
+      <entity2 rdf:resource="http://vocabularies.unesco.org/thesaurus/concept3058"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://vocabs.dariah.eu/tadirah/cataloging"/>
+      <entity2 rdf:resource="http://vocabularies.unesco.org/thesaurus/concept3799"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://vocabs.dariah.eu/tadirah/preserving"/>
+      <entity2 rdf:resource="http://vocabularies.unesco.org/thesaurus/concept3766"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://vocabs.dariah.eu/tadirah/writing"/>
+      <entity2 rdf:resource="http://vocabularies.unesco.org/thesaurus/concept5829"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://vocabs.dariah.eu/tadirah/dataCleansing"/>
+      <entity2 rdf:resource="http://vocabularies.unesco.org/thesaurus/concept502"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://vocabs.dariah.eu/tadirah/enriching"/>
+      <entity2 rdf:resource="http://vocabularies.unesco.org/thesaurus/concept489"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://vocabs.dariah.eu/tadirah/improving"/>
+      <entity2 rdf:resource="http://vocabularies.unesco.org/thesaurus/concept8078"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://vocabs.dariah.eu/tadirah/removing"/>
+      <entity2 rdf:resource="http://vocabularies.unesco.org/thesaurus/concept4219"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
+      <entity2 rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://purl.org/dc/elements/1.1/contributor"/>
+      <entity2 rdf:resource="http://purl.org/dc/elements/1.1/contributor"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://purl.org/dc/elements/1.1/creator"/>
+      <entity2 rdf:resource="http://purl.org/dc/elements/1.1/creator"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://purl.org/dc/elements/1.1/language"/>
+      <entity2 rdf:resource="http://purl.org/dc/terms/language"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://purl.org/dc/terms/created"/>
+      <entity2 rdf:resource="http://purl.org/dc/terms/created"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://purl.org/dc/terms/description"/>
+      <entity2 rdf:resource="http://purl.org/dc/terms/description"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://purl.org/dc/terms/license"/>
+      <entity2 rdf:resource="http://purl.org/dc/terms/license"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://purl.org/dc/terms/modified"/>
+      <entity2 rdf:resource="http://purl.org/dc/terms/modified"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://purl.org/dc/terms/rightsHolder"/>
+      <entity2 rdf:resource="http://purl.org/dc/terms/rightsHolder"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://purl.org/dc/terms/title"/>
+      <entity2 rdf:resource="http://purl.org/dc/terms/title"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.w3.org/2004/02/skos/core#hasTopConcept"/>
+      <entity2 rdf:resource="http://www.w3.org/2004/02/skos/core#hasTopConcept"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://vocabs.dariah.eu/tadirah/analyzing"/>
+      <entity2 rdf:resource="http://vocabularies.unesco.org/thesaurus/concept4326"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://vocabs.dariah.eu/tadirah/contentAnalysis"/>
+      <entity2 rdf:resource="http://vocabularies.unesco.org/thesaurus/concept3321"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://vocabs.dariah.eu/tadirah/relationalAnalysis"/>
+      <entity2 rdf:resource="http://vocabularies.unesco.org/thesaurus/concept3052"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://vocabs.dariah.eu/tadirah/stylisticAnalysis"/>
+      <entity2 rdf:resource="http://vocabularies.unesco.org/thesaurus/concept7974"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://vocabs.dariah.eu/tadirah/annotating"/>
+      <entity2 rdf:resource="http://vocabularies.unesco.org/thesaurus/concept17140"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://vocabs.dariah.eu/tadirah/editing"/>
+      <entity2 rdf:resource="http://vocabularies.unesco.org/thesaurus/concept3810"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://vocabs.dariah.eu/tadirah/contextualizing"/>
+      <entity2 rdf:resource="http://vocabularies.unesco.org/thesaurus/concept4194"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://vocabs.dariah.eu/tadirah/publishing"/>
+      <entity2 rdf:resource="http://vocabularies.unesco.org/thesaurus/concept493"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://vocabs.dariah.eu/tadirah/informationRetrieval"/>
+      <entity2 rdf:resource="http://vocabularies.unesco.org/thesaurus/concept514"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://vocabs.dariah.eu/tadirah/upload"/>
+      <entity2 rdf:resource="http://vocabularies.unesco.org/thesaurus/concept1557"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://vocabs.dariah.eu/tadirah/identifying"/>
+      <entity2 rdf:resource="http://vocabularies.unesco.org/thesaurus/concept5406"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://vocabs.dariah.eu/tadirah/machineLearning"/>
+      <entity2 rdf:resource="http://vocabularies.unesco.org/thesaurus/concept538"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.w3.org/2004/02/skos/core#altLabel"/>
+      <entity2 rdf:resource="http://www.w3.org/2004/02/skos/core#altLabel"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://vocabs.dariah.eu/tadirah/patternRecognition"/>
+      <entity2 rdf:resource="http://vocabularies.unesco.org/thesaurus/concept3054"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://tadirah.dariah.eu/vocab/index.php?tema=39&amp;/identifying"/>
+      <entity2 rdf:resource="http://vocabularies.unesco.org/thesaurus/concept12263"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://vocabs.dariah.eu/tadirah/bitStreamPreservation"/>
+      <entity2 rdf:resource="http://vocabularies.unesco.org/thesaurus/concept2780"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://vocabs.dariah.eu/tadirah/migration"/>
+      <entity2 rdf:resource="http://vocabularies.unesco.org/thesaurus/concept513"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://vocabs.dariah.eu/tadirah/naturalLanguageProcessing"/>
+      <entity2 rdf:resource="http://vocabularies.unesco.org/thesaurus/concept3049"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://vocabs.dariah.eu/tadirah/conceptualizing"/>
+      <entity2 rdf:resource="http://vocabularies.unesco.org/thesaurus/concept3757"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://vocabs.dariah.eu/tadirah/theorizing"/>
+      <entity2 rdf:resource="http://vocabularies.unesco.org/thesaurus/concept3753"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://vocabs.dariah.eu/tadirah/linkedOpenData"/>
+      <entity2 rdf:resource="http://vocabularies.unesco.org/thesaurus/concept17128"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://vocabs.dariah.eu/tadirah/commenting"/>
+      <entity2 rdf:resource="http://vocabularies.unesco.org/thesaurus/concept3326"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://vocabs.dariah.eu/tadirah/crowdsourcing"/>
+      <entity2 rdf:resource="http://vocabularies.unesco.org/thesaurus/concept3055"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://vocabs.dariah.eu/tadirah/description"/>
+      <entity2 rdf:resource="http://vocabularies.unesco.org/thesaurus/concept3785"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://vocabs.dariah.eu/tadirah/versioning"/>
+      <entity2 rdf:resource="http://vocabularies.unesco.org/thesaurus/concept1024"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://vocabs.dariah.eu/tadirah/videoEditing"/>
+      <entity2 rdf:resource="http://vocabularies.unesco.org/thesaurus/concept4361"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://vocabs.dariah.eu/tadirah/webDevelopment"/>
+      <entity2 rdf:resource="http://vocabularies.unesco.org/thesaurus/concept2738"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://vocabs.dariah.eu/tadirah/segmenting"/>
+      <entity2 rdf:resource="http://vocabularies.unesco.org/thesaurus/concept17145"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://tadirah.dariah.eu/vocab/index.php?tema=22&amp;/annotating"/>
+      <entity2 rdf:resource="http://vocabularies.unesco.org/thesaurus/concept487"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://vocabs.dariah.eu/tadirah/tweet"/>
+      <entity2 rdf:resource="http://vocabularies.unesco.org/thesaurus/concept1028"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://vocabs.dariah.eu/tadirah/dataMining"/>
+      <entity2 rdf:resource="http://vocabularies.unesco.org/thesaurus/concept523"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://vocabs.dariah.eu/tadirah/distanceMeasures"/>
+      <entity2 rdf:resource="http://vocabularies.unesco.org/thesaurus/concept7981"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://vocabs.dariah.eu/tadirah/expressingOpinion"/>
+      <entity2 rdf:resource="http://vocabularies.unesco.org/thesaurus/concept5763"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+</Alignment>
+</rdf:RDF>
