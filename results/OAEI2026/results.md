@@ -39,7 +39,6 @@ The raw results can be found in the `raw-results_dhtrack_2026` folder in this re
 
 ## Overview over the matching systems
 - Running successfully
-    - Agent-OM*
     - LogMap KG
     - Matcha
     - MOSAIC*
