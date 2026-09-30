@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns="http://knowledgeweb.semanticweb.org/heterogeneity/alignment"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+<Alignment>
+  <xml>yes</xml>
+  <level>0</level>
+  <type>??</type>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://vocabs.acdh.oeaw.ac.at/dhataxonomy/Concept47"/>
+      <entity2 rdf:resource="http://vocabularies.unesco.org/thesaurus/concept17000"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://purl.org/dc/elements/1.1/creator"/>
+      <entity2 rdf:resource="http://purl.org/dc/elements/1.1/creator"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://purl.org/dc/elements/1.1/source"/>
+      <entity2 rdf:resource="http://purl.org/dc/terms/source"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://purl.org/dc/terms/license"/>
+      <entity2 rdf:resource="http://purl.org/dc/terms/license"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://purl.org/dc/elements/1.1/description"/>
+      <entity2 rdf:resource="http://purl.org/dc/terms/description"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://purl.org/dc/elements/1.1/title"/>
+      <entity2 rdf:resource="http://purl.org/dc/terms/title"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://vocabs.acdh.oeaw.ac.at/dhataxonomy/Concept41"/>
+      <entity2 rdf:resource="http://vocabularies.unesco.org/thesaurus/concept4954"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://purl.org/dc/terms/created"/>
+      <entity2 rdf:resource="http://purl.org/dc/terms/created"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <entity2 rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://purl.org/dc/terms/publisher"/>
+      <entity2 rdf:resource="http://purl.org/dc/elements/1.1/publisher"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://purl.org/dc/elements/1.1/format"/>
+      <entity2 rdf:resource="http://purl.org/dc/terms/format"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://purl.org/dc/terms/rightsHolder"/>
+      <entity2 rdf:resource="http://purl.org/dc/terms/rightsHolder"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://purl.org/dc/elements/1.1/language"/>
+      <entity2 rdf:resource="http://purl.org/dc/terms/language"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://purl.org/dc/elements/1.1/subject"/>
+      <entity2 rdf:resource="http://purl.org/dc/elements/1.1/subject"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://purl.org/dc/terms/contributor"/>
+      <entity2 rdf:resource="http://purl.org/dc/elements/1.1/contributor"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://purl.org/dc/terms/modified"/>
+      <entity2 rdf:resource="http://purl.org/dc/terms/modified"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://vocabs.acdh.oeaw.ac.at/schema#hasIdentifier"/>
+      <entity2 rdf:resource="http://purl.org/dc/terms/identifier"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+</Alignment>
+</rdf:RDF>
