@@ -114,7 +114,7 @@ The two newcomers, SECEA and MOSAIC, were also successful in finding alignments.
 
 On the downside, LogMap and LogMap Bio, which were successful in past years, did not find any instance alignments this year. LogMap KG was the only successful LogMap variant. Several other systems returned empty alignments or resulted in errors, showing that handling SKOS remains a problem for many matching systems.
 
-Looking at execution times, the successful systems need between 5 and 16 seconds for the full track, except Matcha, which needs 5 minutes and 34 seconds. MOSAIC did not provide runtimes. When trading off results and speed, LogMap KG remains the best option.
+Looking at execution times, the successful systems need between 5 and 16 seconds for the full track, except Matcha, which needs 5 minutes and 34 seconds and Agent-OM which needs about 1 week. MOSAIC did not provide runtimes. When trading off results and speed, LogMap KG remains the best option.
 
 # References
 [1] F. Kraus, N. Blumenröhr, G. Götzelmann, T. Tonne, A. Streit, A Gold Standard Benchmark Dataset for Digital Humanities, in: OM-2024: The 19th International Workshop on Ontology Matching collocated with the 23rd International Semantic Web Conference (ISWC 2024), November 11th, Baltimore, USA.
