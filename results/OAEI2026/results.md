@@ -69,7 +69,7 @@ The raw results can be found in the `raw-results_dhtrack_2026` folder in this re
 |  | Agent-OM | LogMap KG | Matcha | MOSAIC | SECEA | TIM | Agent-OM | LogMap KG | Matcha | MOSAIC | SECEA | TIM | Agent-OM | LogMap KG | Matcha | MOSAIC | SECEA | TIM |
 | arch1_defc-pactols | **1.00** | 0.90 | **1.00** | 0.78 | 0.13 | 0.50 | 0.30 | **0.90** | **0.90** | 0.70 | 0.70 | 0.80 | 0.46 | 0.90 | **0.95** | 0.74 | 0.22 | 0.62 |
 | arch2_idai-pactols | 0.25 | 0.39 | 0.19 | **0.60** | 0.06 | 0.20 | 0.06 | 0.71 | **0.76** | 0.18 | 0.24 | 0.18 | 0.10 | **0.50** | 0.30 | 0.27 | 0.10 | 0.19 |
-| arch3_ironagedanube-pactols | 0.00* | 0.40 | **0.67** | **0.67** | 0.10 | 0.24 | 0.00 | **0.80** | **0.80** | **0.80** | **0.80** | **0.80** | 0.00 | 0.53 | **0.73** | **0.73** | 0.18 | 0.36 |
+| arch3_ironagedanube-pactols | 0.00* | 0.40 | **0.67** | **0.67** | 0.10 | 0.24 | 0.00* | **0.80** | **0.80** | **0.80** | **0.80** | **0.80** | 0.00* | 0.53 | **0.73** | **0.73** | 0.18 | 0.36 |
 | arch4_pactols-parthenos | **1.00** | 0.71 | 0.83 | **1.00** | 0.25 | 0.58 | 0.33 | **0.83** | **0.83** | 0.58 | 0.75 | 0.58 | 0.50 | 0.77 | **0.83** | 0.74 | 0.38 | 0.58 |
 | cult1_idai-parthenos | 0.57 | **1.00** | 0.34 | 0.00* | 0.22 | 0.58 | 0.33 | 0.17 | **0.46** | 0.00* | 0.10 | 0.13 | **0.41** | 0.30 | 0.39 | 0.00* | 0.13 | 0.22 |
 | cult2_oeai-parthenos | 0.95 | **1.00** | 0.90 | 0.68 | 0.57 | 0.75 | 0.38 | 0.68 | **0.74** | 0.64 | 0.62 | 0.51 | 0.55 | **0.81** | **0.81** | 0.66 | 0.59 | 0.61 |
@@ -77,7 +77,6 @@ The raw results can be found in the `raw-results_dhtrack_2026` folder in this re
 | dhcs2_tadirah-unesco | **1.00** | 0.53 | 0.50 | 0.69 | 0.08 | 0.00* | 0.33 | **0.67** | **0.67** | 0.60 | 0.47 | 0.00* | 0.50 | 0.59 | 0.57 | **0.64** | 0.14 | 0.00* |
 | Average over all tracks | **0.70** | 0.68 | 0.56 | 0.60 | 0.18 | 0.37 | 0.28 | 0.65 | **0.72** | 0.49 | 0.52 | 0.40 | 0.39 | **0.61** | 0.59 | 0.52 | 0.23 | 0.34 |
 
-*Missing Agent-OM results for arch3_ironagedanube-pactols are treated as 0.00 when calculating averages.*
 \* These test cases were not successful (TIM on `tadirah-unesco`) or were not provided (MOSAIC on `idai-parthenos` and Agent-OM on 'ironagedanube-pactols) and are treated as zero when calculating averages. 
 
 ## Average (mean) over matchers
@@ -115,7 +114,7 @@ The two newcomers, SECEA and MOSAIC, were also successful in finding alignments.
 
 On the downside, LogMap and LogMap Bio, which were successful in past years, did not find any instance alignments this year. LogMap KG was the only successful LogMap variant. Several other systems returned empty alignments or resulted in errors, showing that handling SKOS remains a problem for many matching systems.
 
-Looking at execution times, the successful systems need between 5 and 16 seconds for the full track, except Matcha, which needs 5 minutes and 34 seconds. MOSAIC did not provide runtimes. When trading off results and speed, LogMap KG remains the best option.
+Looking at execution times, the successful systems need between 5 and 16 seconds for the full track, except Matcha, which needs 5 minutes and 34 seconds and Agent-OM which needs about 1 week. MOSAIC did not provide runtimes. When trading off results and speed, LogMap KG remains the best option.
 
 # References
 [1] F. Kraus, N. Blumenröhr, G. Götzelmann, T. Tonne, A. Streit, A Gold Standard Benchmark Dataset for Digital Humanities, in: OM-2024: The 19th International Workshop on Ontology Matching collocated with the 23rd International Semantic Web Conference (ISWC 2024), November 11th, Baltimore, USA.
